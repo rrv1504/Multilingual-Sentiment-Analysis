@@ -143,7 +143,6 @@ Accepted column names:
 
 (Defined in `requirements.txt`)
 
----
 
 ## Future Improvements
 
