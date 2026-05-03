@@ -145,14 +145,6 @@ Accepted column names:
 
 ---
 
-## ⚠️ Limitations
-
-* Only supports **binary classification (Positive / Negative)**
-* Accuracy depends on dataset quality
-* Rule-based multilingual support (not deep NLP)
-
----
-
 ## 🔮 Future Improvements
 
 * Add **Neutral sentiment**
@@ -161,17 +153,3 @@ Accepted column names:
 * Deploy on cloud (Streamlit Cloud / AWS)
 
 ---
-
-## 👩‍💻 Author
-
-**Sakshi S. Doshi**
-**Mahi Shah**
-**Kamya Shah**
-**Roshni Raichandani**
-
-
----
-
-## ⭐ Conclusion
-
-This project demonstrates how **Machine Learning + NLP** can be used to build a **real-world sentiment analysis system** with multilingual capabilities.
