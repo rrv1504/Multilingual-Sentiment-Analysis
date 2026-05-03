@@ -165,12 +165,13 @@ Accepted column names:
 ## 👩‍💻 Author
 
 **Sakshi S. Doshi**
-IT Engineer | ML Enthusiast
+**Mahi Shah**
+**Kamya Shah**
+**Roshni Raichandani**
+
 
 ---
 
 ## ⭐ Conclusion
 
 This project demonstrates how **Machine Learning + NLP** can be used to build a **real-world sentiment analysis system** with multilingual capabilities.
-
----  convert this to readme.md
