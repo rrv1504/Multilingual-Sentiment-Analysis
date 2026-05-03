@@ -1,39 +1,39 @@
-# 📊 Multilingual Sentiment Analysis System
+# Multilingual Sentiment Analysis System
 
 A **Machine Learning-based web application** that analyzes customer reviews and predicts whether they are **Positive or Negative**.
 This project supports **multilingual input** including **English, Hindi, and Gujarati**.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔍 **Single Review Analysis**
+* **Single Review Analysis**
 
   * Enter a review and instantly get sentiment prediction with confidence score
 
-* 📂 **Bulk CSV Analysis**
+* **Bulk CSV Analysis**
 
   * Upload a CSV file and analyze multiple reviews at once
   * Download results with predictions
 
-* 🌐 **Multilingual Support**
+* **Multilingual Support**
 
   * Works with English, Hindi, Gujarati, and mixed (Hinglish/Gujlish) text
 
-* 📊 **Interactive Visualizations**
+* **Interactive Visualizations**
 
   * Positive vs Negative count
   * Category-wise sentiment
   * Rating-wise sentiment
   * Monthly trend analysis
 
-* 🧠 **Machine Learning Model**
+* **Machine Learning Model**
 
   * Uses TF-IDF + Logistic Regression for prediction
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 .
@@ -50,7 +50,7 @@ This project supports **multilingual input** including **English, Hindi, and Guj
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
+## Run the Application
 
 ```bash
 streamlit run app.py
@@ -77,7 +77,7 @@ The app will open in your browser.
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 * **Algorithm:** Logistic Regression
 * **Vectorization:** TF-IDF (Unigrams + Bigrams)
@@ -89,7 +89,7 @@ Model training and saving is handled in `model.py`.
 
 ---
 
-## 🌍 Multilingual Processing
+## Multilingual Processing
 
 The system uses custom logic from `sentiment_utils.py`:
 
@@ -106,7 +106,7 @@ Example:
 
 ---
 
-## 📂 Dataset Format
+## Dataset Format
 
 CSV file must contain a review column:
 
@@ -125,7 +125,7 @@ Accepted column names:
 
 ---
 
-## 📊 Output Example
+## Output Example
 
 | Review        | Predicted Sentiment | Confidence |
 | ------------- | ------------------- | ---------- |
@@ -134,7 +134,7 @@ Accepted column names:
 
 ---
 
-## 📌 Dependencies
+## Dependencies
 
 * streamlit
 * pandas
@@ -145,7 +145,7 @@ Accepted column names:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add **Neutral sentiment**
 * Use **Deep Learning (LSTM / BERT)**
