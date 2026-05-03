@@ -1,0 +1,1001 @@
+review_id,product_id,product_name,category,user_id,rating,review,label,date
+R0001,P002,Stainless Steel Water Bottle,Home & Kitchen,U5506,4,This product has fast delivery!!,positive,13-10-2023
+R0002,P002,Stainless Steel Water Bottle,Home & Kitchen,U7912,4,This product has great quality!,positive,11-07-2023
+R0003,P004,Smart LED TV 43 inch,Electronics,U9279,4,This product has sound is clear!,positive,12-02-2024
+R0004,P007,Gaming Mouse RGB,Electronics,U8359,4,This product has sound is clear.,positive,14-01-2023
+R0005,P003,Men's Running Shoes,Clothing,U6574,5,This product has easy to use!!,positive,16-03-2024
+R0006,P006,Women's Handbag,Accessories,U2519,4,This product has works perfectly!,positive,05-01-2025
+R0007,P006,Women's Handbag,Accessories,U1711,5,This product has highly recommended :),positive,13-09-2023
+R0008,P007,Gaming Mouse RGB,Electronics,U5803,4,This product has very useful.,positive,29-01-2024
+R0009,P002,Stainless Steel Water Bottle,Home & Kitchen,U4733,4,This product has easy to use!,positive,21-04-2024
+R0010,P002,Stainless Steel Water Bottle,Home & Kitchen,U5554,5,This product has comfortable to use.,positive,30-11-2023
+R0011,P006,Women's Handbag,Accessories,U4432,5,This product has very useful.,positive,27-05-2023
+R0012,P003,Men's Running Shoes,Clothing,U3677,4,This product has comfortable to use :),positive,06-07-2024
+R0013,P004,Smart LED TV 43 inch,Electronics,U1916,5,This product has fast delivery!,positive,08-10-2024
+R0014,P007,Gaming Mouse RGB,Electronics,U2084,5,This product has fast delivery.,positive,11-03-2024
+R0015,P008,Mixer Grinder 750W,Home & Kitchen,U8517,5,This product has value for money.,positive,13-10-2023
+R0016,P004,Smart LED TV 43 inch,Electronics,U8019,5,This product has sound is clear :),positive,11-01-2025
+R0017,P004,Smart LED TV 43 inch,Electronics,U9348,4,This product has comfortable to use!,positive,07-04-2023
+R0018,P002,Stainless Steel Water Bottle,Home & Kitchen,U3621,4,This product has very useful :),positive,11-05-2023
+R0019,P007,Gaming Mouse RGB,Electronics,U8668,5,This product has battery lasts long.,positive,24-01-2023
+R0020,P002,Stainless Steel Water Bottle,Home & Kitchen,U6573,5,This product has excellent build.,positive,09-06-2025
+R0021,P003,Men's Running Shoes,Clothing,U1053,5,This product has highly recommended.,positive,22-10-2025
+R0022,P003,Men's Running Shoes,Clothing,U5889,4,This product has very useful!!,positive,10-11-2023
+R0023,P006,Women's Handbag,Accessories,U9837,4,This product has battery lasts long!,positive,25-10-2024
+R0024,P008,Mixer Grinder 750W,Home & Kitchen,U2832,4,This product has looks premium.,positive,05-05-2024
+R0025,P001,Wireless Bluetooth Earbuds,Electronics,U2290,4,This product has excellent build :),positive,22-05-2023
+R0026,P003,Men's Running Shoes,Clothing,U8787,4,This product has battery lasts long!!,positive,26-06-2024
+R0027,P007,Gaming Mouse RGB,Electronics,U9835,4,This product has highly recommended!!,positive,30-09-2024
+R0028,P007,Gaming Mouse RGB,Electronics,U8177,5,This product has battery lasts long :),positive,05-09-2023
+R0029,P004,Smart LED TV 43 inch,Electronics,U2049,4,This product has looks premium!,positive,16-04-2024
+R0030,P004,Smart LED TV 43 inch,Electronics,U2163,4,This product has highly recommended!,positive,13-04-2024
+R0031,P002,Stainless Steel Water Bottle,Home & Kitchen,U6413,4,This product has excellent build!!,positive,24-07-2024
+R0032,P008,Mixer Grinder 750W,Home & Kitchen,U9834,4,This product has value for money :),positive,12-05-2024
+R0033,P008,Mixer Grinder 750W,Home & Kitchen,U4119,5,This product has excellent build!,positive,01-06-2025
+R0034,P006,Women's Handbag,Accessories,U7735,5,This product has comfortable to use!,positive,21-07-2023
+R0035,P001,Wireless Bluetooth Earbuds,Electronics,U6559,5,This product has excellent build!!,positive,28-01-2024
+R0036,P004,Smart LED TV 43 inch,Electronics,U3296,5,This product has works perfectly!!,positive,24-07-2024
+R0037,P008,Mixer Grinder 750W,Home & Kitchen,U2235,4,This product has comfortable to use!,positive,14-04-2023
+R0038,P001,Wireless Bluetooth Earbuds,Electronics,U4872,4,This product has value for money :),positive,21-09-2025
+R0039,P008,Mixer Grinder 750W,Home & Kitchen,U7570,4,This product has great quality!!,positive,15-02-2025
+R0040,P001,Wireless Bluetooth Earbuds,Electronics,U5345,5,This product has comfortable to use.,positive,16-05-2025
+R0041,P008,Mixer Grinder 750W,Home & Kitchen,U4111,4,This product has easy to use!!,positive,30-04-2023
+R0042,P001,Wireless Bluetooth Earbuds,Electronics,U1936,5,This product has great quality :),positive,26-10-2025
+R0043,P003,Men's Running Shoes,Clothing,U9320,4,This product has excellent build!!,positive,21-05-2023
+R0044,P002,Stainless Steel Water Bottle,Home & Kitchen,U7615,4,This product has excellent build!!,positive,23-03-2023
+R0045,P002,Stainless Steel Water Bottle,Home & Kitchen,U9565,5,This product has looks premium.,positive,23-02-2024
+R0046,P006,Women's Handbag,Accessories,U5351,4,This product has works perfectly!!,positive,06-09-2024
+R0047,P008,Mixer Grinder 750W,Home & Kitchen,U2188,5,This product has great quality :),positive,24-07-2023
+R0048,P002,Stainless Steel Water Bottle,Home & Kitchen,U9288,4,This product has easy to use!!,positive,15-12-2024
+R0049,P002,Stainless Steel Water Bottle,Home & Kitchen,U7054,4,This product has easy to use!!,positive,16-06-2025
+R0050,P005,Cotton Bedsheet Set,Home & Kitchen,U5905,4,This product has very useful!,positive,03-10-2023
+R0051,P005,Cotton Bedsheet Set,Home & Kitchen,U2753,4,This product has highly recommended!!,positive,11-07-2024
+R0052,P005,Cotton Bedsheet Set,Home & Kitchen,U6617,4,This product has fast delivery.,positive,01-11-2025
+R0053,P008,Mixer Grinder 750W,Home & Kitchen,U1832,5,This product has excellent build :),positive,20-07-2024
+R0054,P001,Wireless Bluetooth Earbuds,Electronics,U6464,4,This product has value for money.,positive,27-11-2023
+R0055,P008,Mixer Grinder 750W,Home & Kitchen,U1158,5,This product has excellent build!,positive,02-11-2023
+R0056,P001,Wireless Bluetooth Earbuds,Electronics,U3426,5,This product has works perfectly!!,positive,27-03-2023
+R0057,P005,Cotton Bedsheet Set,Home & Kitchen,U1653,5,This product has looks premium!!,positive,26-05-2024
+R0058,P002,Stainless Steel Water Bottle,Home & Kitchen,U7658,5,This product has sound is clear!!,positive,29-04-2024
+R0059,P003,Men's Running Shoes,Clothing,U7755,4,This product has great quality!!,positive,11-11-2024
+R0060,P007,Gaming Mouse RGB,Electronics,U5371,4,This product has value for money!,positive,22-02-2025
+R0061,P001,Wireless Bluetooth Earbuds,Electronics,U4644,5,This product has fast delivery :),positive,17-12-2024
+R0062,P005,Cotton Bedsheet Set,Home & Kitchen,U4652,4,This product has great quality!!,positive,27-03-2025
+R0063,P006,Women's Handbag,Accessories,U2137,5,This product has easy to use.,positive,09-11-2025
+R0064,P007,Gaming Mouse RGB,Electronics,U1452,5,This product has excellent build.,positive,01-01-2024
+R0065,P005,Cotton Bedsheet Set,Home & Kitchen,U2776,4,This product has sound is clear :),positive,08-12-2024
+R0066,P006,Women's Handbag,Accessories,U9379,5,This product has excellent build :),positive,25-01-2024
+R0067,P005,Cotton Bedsheet Set,Home & Kitchen,U8144,4,This product has great quality!!,positive,15-01-2025
+R0068,P007,Gaming Mouse RGB,Electronics,U6409,4,This product has sound is clear.,positive,13-09-2023
+R0069,P005,Cotton Bedsheet Set,Home & Kitchen,U7691,5,This product has looks premium :),positive,28-08-2024
+R0070,P003,Men's Running Shoes,Clothing,U7888,4,This product has very useful :),positive,23-12-2023
+R0071,P005,Cotton Bedsheet Set,Home & Kitchen,U9977,5,This product has great quality.,positive,10-08-2024
+R0072,P004,Smart LED TV 43 inch,Electronics,U6279,5,This product has comfortable to use :),positive,24-06-2025
+R0073,P004,Smart LED TV 43 inch,Electronics,U3780,5,This product has very useful!,positive,04-08-2024
+R0074,P006,Women's Handbag,Accessories,U4848,4,This product has very useful.,positive,05-04-2024
+R0075,P004,Smart LED TV 43 inch,Electronics,U1400,4,This product has great quality!!,positive,31-08-2025
+R0076,P002,Stainless Steel Water Bottle,Home & Kitchen,U7790,5,This product has very useful!!,positive,25-02-2025
+R0077,P008,Mixer Grinder 750W,Home & Kitchen,U4997,5,This product has value for money!,positive,07-08-2023
+R0078,P007,Gaming Mouse RGB,Electronics,U3881,4,This product has highly recommended :),positive,13-04-2023
+R0079,P004,Smart LED TV 43 inch,Electronics,U8478,4,This product has value for money :),positive,23-12-2025
+R0080,P006,Women's Handbag,Accessories,U9270,5,This product has works perfectly :),positive,22-11-2023
+R0081,P008,Mixer Grinder 750W,Home & Kitchen,U5246,5,This product has fast delivery.,positive,03-12-2025
+R0082,P008,Mixer Grinder 750W,Home & Kitchen,U5499,4,This product has comfortable to use!,positive,08-08-2024
+R0083,P004,Smart LED TV 43 inch,Electronics,U6502,5,This product has looks premium!,positive,11-10-2023
+R0084,P003,Men's Running Shoes,Clothing,U7275,4,This product has highly recommended!!,positive,14-03-2024
+R0085,P002,Stainless Steel Water Bottle,Home & Kitchen,U7678,5,This product has looks premium :),positive,01-05-2025
+R0086,P001,Wireless Bluetooth Earbuds,Electronics,U7883,4,This product has works perfectly!,positive,18-02-2025
+R0087,P008,Mixer Grinder 750W,Home & Kitchen,U6763,4,This product has easy to use :),positive,08-05-2025
+R0088,P004,Smart LED TV 43 inch,Electronics,U4595,5,This product has easy to use :),positive,21-09-2025
+R0089,P001,Wireless Bluetooth Earbuds,Electronics,U6507,5,This product has very useful :),positive,05-12-2023
+R0090,P008,Mixer Grinder 750W,Home & Kitchen,U9751,4,This product has great quality :),positive,25-02-2023
+R0091,P002,Stainless Steel Water Bottle,Home & Kitchen,U3223,5,This product has comfortable to use!!,positive,13-04-2023
+R0092,P005,Cotton Bedsheet Set,Home & Kitchen,U6363,5,This product has fast delivery :),positive,31-10-2024
+R0093,P006,Women's Handbag,Accessories,U5558,5,This product has works perfectly.,positive,17-06-2023
+R0094,P008,Mixer Grinder 750W,Home & Kitchen,U9837,4,This product has great quality.,positive,04-04-2024
+R0095,P002,Stainless Steel Water Bottle,Home & Kitchen,U1508,4,This product has fast delivery!!,positive,11-02-2023
+R0096,P003,Men's Running Shoes,Clothing,U3068,4,This product has comfortable to use!,positive,22-03-2024
+R0097,P008,Mixer Grinder 750W,Home & Kitchen,U7043,5,This product has value for money!,positive,02-12-2023
+R0098,P005,Cotton Bedsheet Set,Home & Kitchen,U1420,4,This product has easy to use :),positive,23-03-2025
+R0099,P004,Smart LED TV 43 inch,Electronics,U4978,4,This product has excellent build.,positive,05-09-2023
+R0100,P001,Wireless Bluetooth Earbuds,Electronics,U9728,5,This product has works perfectly.,positive,22-05-2023
+R0101,P006,Women's Handbag,Accessories,U7882,4,This product has comfortable to use!,positive,06-06-2025
+R0102,P006,Women's Handbag,Accessories,U3506,5,This product has works perfectly!!,positive,04-12-2025
+R0103,P005,Cotton Bedsheet Set,Home & Kitchen,U8616,5,This product has works perfectly.,positive,22-10-2024
+R0104,P004,Smart LED TV 43 inch,Electronics,U5569,4,This product has comfortable to use!!,positive,09-08-2025
+R0105,P007,Gaming Mouse RGB,Electronics,U1470,5,This product has comfortable to use.,positive,08-01-2024
+R0106,P008,Mixer Grinder 750W,Home & Kitchen,U6813,4,This product has easy to use.,positive,26-07-2024
+R0107,P005,Cotton Bedsheet Set,Home & Kitchen,U9464,4,This product has fast delivery!,positive,09-05-2024
+R0108,P007,Gaming Mouse RGB,Electronics,U4937,5,This product has highly recommended :),positive,02-10-2025
+R0109,P008,Mixer Grinder 750W,Home & Kitchen,U2524,4,This product has easy to use!!,positive,08-04-2025
+R0110,P004,Smart LED TV 43 inch,Electronics,U7046,5,This product has comfortable to use.,positive,21-05-2025
+R0111,P006,Women's Handbag,Accessories,U8434,5,This product has easy to use.,positive,29-05-2024
+R0112,P004,Smart LED TV 43 inch,Electronics,U4155,4,This product has looks premium!,positive,15-01-2024
+R0113,P004,Smart LED TV 43 inch,Electronics,U8933,4,This product has easy to use.,positive,25-07-2023
+R0114,P004,Smart LED TV 43 inch,Electronics,U4727,5,This product has looks premium!!,positive,11-09-2024
+R0115,P001,Wireless Bluetooth Earbuds,Electronics,U5494,4,This product has great quality!,positive,21-08-2024
+R0116,P003,Men's Running Shoes,Clothing,U2680,5,This product has great quality.,positive,19-08-2025
+R0117,P008,Mixer Grinder 750W,Home & Kitchen,U6582,5,This product has value for money!,positive,01-06-2024
+R0118,P008,Mixer Grinder 750W,Home & Kitchen,U2070,4,This product has works perfectly :),positive,01-06-2023
+R0119,P001,Wireless Bluetooth Earbuds,Electronics,U3444,4,This product has sound is clear.,positive,24-06-2023
+R0120,P004,Smart LED TV 43 inch,Electronics,U7818,4,This product has sound is clear!!,positive,06-12-2025
+R0121,P007,Gaming Mouse RGB,Electronics,U8253,5,This product has easy to use :),positive,17-09-2024
+R0122,P001,Wireless Bluetooth Earbuds,Electronics,U4404,4,This product has very useful!!,positive,25-06-2024
+R0123,P002,Stainless Steel Water Bottle,Home & Kitchen,U4929,4,This product has value for money!,positive,17-11-2023
+R0124,P001,Wireless Bluetooth Earbuds,Electronics,U8381,5,This product has highly recommended :),positive,19-08-2024
+R0125,P001,Wireless Bluetooth Earbuds,Electronics,U5720,4,This product has highly recommended.,positive,18-07-2025
+R0126,P002,Stainless Steel Water Bottle,Home & Kitchen,U5334,4,This product has very useful!!,positive,20-05-2025
+R0127,P002,Stainless Steel Water Bottle,Home & Kitchen,U3441,4,This product has easy to use!!,positive,27-05-2023
+R0128,P001,Wireless Bluetooth Earbuds,Electronics,U6039,4,This product has sound is clear.,positive,18-06-2025
+R0129,P002,Stainless Steel Water Bottle,Home & Kitchen,U5982,5,This product has highly recommended :),positive,11-07-2024
+R0130,P008,Mixer Grinder 750W,Home & Kitchen,U2317,5,This product has sound is clear!,positive,03-06-2025
+R0131,P006,Women's Handbag,Accessories,U1423,5,This product has excellent build!!,positive,12-02-2023
+R0132,P005,Cotton Bedsheet Set,Home & Kitchen,U3870,4,This product has comfortable to use :),positive,23-07-2024
+R0133,P003,Men's Running Shoes,Clothing,U9056,5,This product has excellent build :),positive,13-12-2024
+R0134,P007,Gaming Mouse RGB,Electronics,U6260,5,This product has very useful!,positive,26-11-2023
+R0135,P006,Women's Handbag,Accessories,U9117,5,This product has easy to use :),positive,17-03-2023
+R0136,P008,Mixer Grinder 750W,Home & Kitchen,U6153,4,This product has easy to use.,positive,26-08-2023
+R0137,P007,Gaming Mouse RGB,Electronics,U9889,4,This product has comfortable to use :),positive,22-04-2023
+R0138,P004,Smart LED TV 43 inch,Electronics,U9167,5,This product has very useful :),positive,16-04-2023
+R0139,P004,Smart LED TV 43 inch,Electronics,U9998,5,This product has value for money.,positive,16-06-2025
+R0140,P008,Mixer Grinder 750W,Home & Kitchen,U1472,4,This product has very useful!!,positive,21-11-2023
+R0141,P005,Cotton Bedsheet Set,Home & Kitchen,U7684,4,This product has excellent build!!,positive,21-08-2023
+R0142,P008,Mixer Grinder 750W,Home & Kitchen,U3522,4,This product has comfortable to use.,positive,08-11-2025
+R0143,P005,Cotton Bedsheet Set,Home & Kitchen,U8905,5,This product has comfortable to use!!,positive,24-07-2025
+R0144,P003,Men's Running Shoes,Clothing,U4122,5,This product has sound is clear!!,positive,23-05-2023
+R0145,P005,Cotton Bedsheet Set,Home & Kitchen,U6568,5,This product has battery lasts long.,positive,06-01-2023
+R0146,P005,Cotton Bedsheet Set,Home & Kitchen,U9022,5,This product has value for money :),positive,18-09-2025
+R0147,P006,Women's Handbag,Accessories,U9903,5,This product has works perfectly :),positive,21-10-2024
+R0148,P004,Smart LED TV 43 inch,Electronics,U7274,4,This product has fast delivery :),positive,31-03-2023
+R0149,P006,Women's Handbag,Accessories,U7246,5,This product has works perfectly!!,positive,11-10-2025
+R0150,P001,Wireless Bluetooth Earbuds,Electronics,U9229,4,This product has sound is clear.,positive,25-07-2023
+R0151,P008,Mixer Grinder 750W,Home & Kitchen,U9617,4,This product has comfortable to use!,positive,23-10-2023
+R0152,P007,Gaming Mouse RGB,Electronics,U2225,4,This product has comfortable to use.,positive,24-11-2024
+R0153,P007,Gaming Mouse RGB,Electronics,U6383,4,This product has very useful :),positive,10-10-2024
+R0154,P008,Mixer Grinder 750W,Home & Kitchen,U2121,4,This product has fast delivery.,positive,10-04-2024
+R0155,P002,Stainless Steel Water Bottle,Home & Kitchen,U2612,5,This product has very useful!,positive,27-06-2025
+R0156,P003,Men's Running Shoes,Clothing,U1474,5,This product has great quality.,positive,25-04-2023
+R0157,P005,Cotton Bedsheet Set,Home & Kitchen,U7141,5,This product has works perfectly!!,positive,15-05-2024
+R0158,P007,Gaming Mouse RGB,Electronics,U3785,4,This product has value for money!,positive,22-02-2025
+R0159,P004,Smart LED TV 43 inch,Electronics,U3344,5,This product has fast delivery :),positive,04-06-2024
+R0160,P008,Mixer Grinder 750W,Home & Kitchen,U1153,5,This product has comfortable to use.,positive,20-11-2023
+R0161,P002,Stainless Steel Water Bottle,Home & Kitchen,U6661,5,This product has sound is clear.,positive,18-05-2025
+R0162,P005,Cotton Bedsheet Set,Home & Kitchen,U5949,5,This product has fast delivery :),positive,16-09-2025
+R0163,P002,Stainless Steel Water Bottle,Home & Kitchen,U7248,4,This product has sound is clear.,positive,28-08-2024
+R0164,P005,Cotton Bedsheet Set,Home & Kitchen,U7484,4,This product has easy to use!,positive,11-04-2023
+R0165,P008,Mixer Grinder 750W,Home & Kitchen,U4770,5,This product has sound is clear.,positive,24-03-2024
+R0166,P004,Smart LED TV 43 inch,Electronics,U3240,5,This product has very useful!,positive,22-03-2023
+R0167,P005,Cotton Bedsheet Set,Home & Kitchen,U1546,5,This product has sound is clear.,positive,27-09-2023
+R0168,P002,Stainless Steel Water Bottle,Home & Kitchen,U6352,5,This product has highly recommended :),positive,26-12-2023
+R0169,P004,Smart LED TV 43 inch,Electronics,U9837,4,This product has looks premium.,positive,03-12-2023
+R0170,P005,Cotton Bedsheet Set,Home & Kitchen,U5835,5,This product has highly recommended.,positive,24-08-2023
+R0171,P008,Mixer Grinder 750W,Home & Kitchen,U3306,4,This product has fast delivery :),positive,19-01-2025
+R0172,P002,Stainless Steel Water Bottle,Home & Kitchen,U1228,5,This product has easy to use!,positive,20-07-2025
+R0173,P006,Women's Handbag,Accessories,U7242,5,This product has very useful.,positive,10-08-2023
+R0174,P004,Smart LED TV 43 inch,Electronics,U1410,5,This product has sound is clear.,positive,29-03-2024
+R0175,P002,Stainless Steel Water Bottle,Home & Kitchen,U5951,5,This product has very useful :),positive,27-08-2023
+R0176,P003,Men's Running Shoes,Clothing,U1609,4,This product has easy to use :),positive,26-08-2023
+R0177,P002,Stainless Steel Water Bottle,Home & Kitchen,U9807,4,This product has value for money :),positive,18-07-2025
+R0178,P006,Women's Handbag,Accessories,U3531,5,This product has works perfectly!,positive,29-09-2025
+R0179,P007,Gaming Mouse RGB,Electronics,U1536,5,This product has highly recommended.,positive,20-03-2024
+R0180,P008,Mixer Grinder 750W,Home & Kitchen,U4868,5,This product has looks premium!,positive,22-01-2025
+R0181,P006,Women's Handbag,Accessories,U7523,4,This product has easy to use!!,positive,08-09-2023
+R0182,P008,Mixer Grinder 750W,Home & Kitchen,U4475,4,This product has very useful!,positive,14-04-2023
+R0183,P006,Women's Handbag,Accessories,U3063,4,This product has sound is clear!!,positive,21-05-2023
+R0184,P004,Smart LED TV 43 inch,Electronics,U4817,4,This product has looks premium!!,positive,06-01-2023
+R0185,P005,Cotton Bedsheet Set,Home & Kitchen,U3129,4,This product has battery lasts long.,positive,24-12-2023
+R0186,P002,Stainless Steel Water Bottle,Home & Kitchen,U3159,4,This product has great quality.,positive,02-05-2024
+R0187,P006,Women's Handbag,Accessories,U3854,4,This product has easy to use!,positive,17-09-2023
+R0188,P007,Gaming Mouse RGB,Electronics,U2041,4,This product has comfortable to use :),positive,11-01-2025
+R0189,P002,Stainless Steel Water Bottle,Home & Kitchen,U9254,5,This product has fast delivery!,positive,03-12-2025
+R0190,P005,Cotton Bedsheet Set,Home & Kitchen,U1510,5,This product has great quality :),positive,02-04-2025
+R0191,P007,Gaming Mouse RGB,Electronics,U9032,4,This product has highly recommended :),positive,31-05-2023
+R0192,P002,Stainless Steel Water Bottle,Home & Kitchen,U3430,5,This product has excellent build!!,positive,17-07-2024
+R0193,P006,Women's Handbag,Accessories,U9692,5,This product has easy to use :),positive,01-11-2025
+R0194,P007,Gaming Mouse RGB,Electronics,U2874,4,This product has very useful!!,positive,30-05-2025
+R0195,P008,Mixer Grinder 750W,Home & Kitchen,U7779,4,This product has looks premium :),positive,27-03-2025
+R0196,P007,Gaming Mouse RGB,Electronics,U6120,4,This product has works perfectly.,positive,06-06-2024
+R0197,P006,Women's Handbag,Accessories,U8770,4,This product has excellent build!,positive,24-06-2023
+R0198,P002,Stainless Steel Water Bottle,Home & Kitchen,U2582,5,This product has highly recommended.,positive,24-09-2023
+R0199,P001,Wireless Bluetooth Earbuds,Electronics,U3002,5,This product has works perfectly.,positive,16-05-2025
+R0200,P001,Wireless Bluetooth Earbuds,Electronics,U6119,5,This product has looks premium!,positive,05-11-2025
+R0201,P004,Smart LED TV 43 inch,Electronics,U8900,4,This product has fast delivery!,positive,18-12-2024
+R0202,P006,Women's Handbag,Accessories,U5564,4,This product has sound is clear!!,positive,28-05-2025
+R0203,P001,Wireless Bluetooth Earbuds,Electronics,U1474,5,This product has value for money.,positive,24-09-2024
+R0204,P006,Women's Handbag,Accessories,U1100,5,This product has value for money!!,positive,31-03-2025
+R0205,P002,Stainless Steel Water Bottle,Home & Kitchen,U1502,4,This product has excellent build!!,positive,09-02-2025
+R0206,P007,Gaming Mouse RGB,Electronics,U6585,5,This product has value for money.,positive,30-09-2024
+R0207,P006,Women's Handbag,Accessories,U1861,4,This product has value for money!!,positive,12-04-2023
+R0208,P002,Stainless Steel Water Bottle,Home & Kitchen,U8259,5,This product has very useful :),positive,21-09-2025
+R0209,P008,Mixer Grinder 750W,Home & Kitchen,U5475,5,This product has fast delivery!,positive,07-12-2024
+R0210,P007,Gaming Mouse RGB,Electronics,U5640,4,This product has very useful :),positive,15-12-2025
+R0211,P005,Cotton Bedsheet Set,Home & Kitchen,U4612,4,This product has works perfectly!,positive,16-01-2023
+R0212,P004,Smart LED TV 43 inch,Electronics,U4460,5,This product has value for money.,positive,15-08-2024
+R0213,P006,Women's Handbag,Accessories,U1126,4,This product has comfortable to use :),positive,26-12-2023
+R0214,P003,Men's Running Shoes,Clothing,U9725,5,This product has highly recommended!!,positive,21-10-2025
+R0215,P006,Women's Handbag,Accessories,U7505,4,This product has highly recommended!,positive,12-06-2025
+R0216,P001,Wireless Bluetooth Earbuds,Electronics,U2275,5,This product has looks premium :),positive,08-04-2025
+R0217,P007,Gaming Mouse RGB,Electronics,U2887,5,This product has works perfectly!,positive,27-10-2024
+R0218,P003,Men's Running Shoes,Clothing,U6928,5,This product has excellent build :),positive,05-08-2023
+R0219,P004,Smart LED TV 43 inch,Electronics,U7560,5,This product has battery lasts long!,positive,21-03-2025
+R0220,P005,Cotton Bedsheet Set,Home & Kitchen,U4630,5,This product has looks premium!!,positive,06-06-2023
+R0221,P002,Stainless Steel Water Bottle,Home & Kitchen,U6724,4,This product has looks premium!!,positive,28-04-2024
+R0222,P002,Stainless Steel Water Bottle,Home & Kitchen,U5193,4,This product has fast delivery!!,positive,10-11-2023
+R0223,P002,Stainless Steel Water Bottle,Home & Kitchen,U9095,4,This product has comfortable to use :),positive,23-10-2024
+R0224,P006,Women's Handbag,Accessories,U8205,4,This product has excellent build :),positive,24-06-2025
+R0225,P005,Cotton Bedsheet Set,Home & Kitchen,U1920,5,This product has looks premium!,positive,27-09-2024
+R0226,P008,Mixer Grinder 750W,Home & Kitchen,U1616,5,This product has great quality.,positive,10-08-2024
+R0227,P002,Stainless Steel Water Bottle,Home & Kitchen,U9307,4,This product has works perfectly :),positive,26-03-2023
+R0228,P008,Mixer Grinder 750W,Home & Kitchen,U6267,4,This product has sound is clear :),positive,23-10-2025
+R0229,P003,Men's Running Shoes,Clothing,U8381,4,This product has excellent build.,positive,22-06-2023
+R0230,P003,Men's Running Shoes,Clothing,U5059,4,This product has highly recommended :),positive,18-06-2025
+R0231,P003,Men's Running Shoes,Clothing,U7108,5,This product has easy to use :),positive,17-04-2025
+R0232,P006,Women's Handbag,Accessories,U6482,4,This product has excellent build.,positive,13-07-2023
+R0233,P007,Gaming Mouse RGB,Electronics,U5128,5,This product has highly recommended!!,positive,13-11-2024
+R0234,P002,Stainless Steel Water Bottle,Home & Kitchen,U6731,4,This product has easy to use :),positive,22-09-2023
+R0235,P002,Stainless Steel Water Bottle,Home & Kitchen,U7171,5,This product has very useful.,positive,19-09-2023
+R0236,P002,Stainless Steel Water Bottle,Home & Kitchen,U9331,5,This product has looks premium!,positive,12-01-2025
+R0237,P005,Cotton Bedsheet Set,Home & Kitchen,U4509,4,This product has looks premium :),positive,29-01-2024
+R0238,P004,Smart LED TV 43 inch,Electronics,U3538,4,This product has excellent build.,positive,27-07-2023
+R0239,P001,Wireless Bluetooth Earbuds,Electronics,U3147,5,This product has sound is clear :),positive,12-11-2023
+R0240,P003,Men's Running Shoes,Clothing,U3712,4,This product has highly recommended :),positive,31-03-2023
+R0241,P007,Gaming Mouse RGB,Electronics,U4891,5,This product has comfortable to use.,positive,08-07-2025
+R0242,P004,Smart LED TV 43 inch,Electronics,U6070,4,This product has comfortable to use!!,positive,23-01-2025
+R0243,P008,Mixer Grinder 750W,Home & Kitchen,U5616,5,This product has works perfectly :),positive,28-11-2023
+R0244,P004,Smart LED TV 43 inch,Electronics,U5096,4,This product has great quality :),positive,30-01-2025
+R0245,P002,Stainless Steel Water Bottle,Home & Kitchen,U5670,4,This product has excellent build!!,positive,12-07-2024
+R0246,P008,Mixer Grinder 750W,Home & Kitchen,U8167,4,This product has excellent build!!,positive,12-07-2025
+R0247,P006,Women's Handbag,Accessories,U7797,4,This product has great quality :),positive,25-10-2025
+R0248,P006,Women's Handbag,Accessories,U7326,4,This product has excellent build.,positive,04-04-2024
+R0249,P001,Wireless Bluetooth Earbuds,Electronics,U2623,5,This product has highly recommended.,positive,27-10-2023
+R0250,P003,Men's Running Shoes,Clothing,U5700,4,This product has comfortable to use!!,positive,18-08-2025
+R0251,P008,Mixer Grinder 750W,Home & Kitchen,U2298,4,This product has great quality.,positive,17-03-2024
+R0252,P003,Men's Running Shoes,Clothing,U2821,5,This product has easy to use!!,positive,08-09-2024
+R0253,P002,Stainless Steel Water Bottle,Home & Kitchen,U4906,4,This product has works perfectly :),positive,09-05-2023
+R0254,P002,Stainless Steel Water Bottle,Home & Kitchen,U9782,5,This product has great quality!!,positive,22-10-2023
+R0255,P005,Cotton Bedsheet Set,Home & Kitchen,U1025,5,This product has sound is clear.,positive,07-05-2024
+R0256,P007,Gaming Mouse RGB,Electronics,U2402,4,This product has battery lasts long.,positive,19-05-2023
+R0257,P001,Wireless Bluetooth Earbuds,Electronics,U8702,5,This product has great quality :),positive,03-02-2025
+R0258,P005,Cotton Bedsheet Set,Home & Kitchen,U6850,4,This product has excellent build.,positive,08-05-2024
+R0259,P002,Stainless Steel Water Bottle,Home & Kitchen,U3185,5,This product has great quality.,positive,24-11-2024
+R0260,P003,Men's Running Shoes,Clothing,U8840,5,This product has very useful!!,positive,04-10-2023
+R0261,P002,Stainless Steel Water Bottle,Home & Kitchen,U1605,5,This product has easy to use!!,positive,31-03-2023
+R0262,P004,Smart LED TV 43 inch,Electronics,U6170,4,This product has easy to use :),positive,27-08-2025
+R0263,P005,Cotton Bedsheet Set,Home & Kitchen,U4131,4,This product has easy to use.,positive,08-04-2023
+R0264,P006,Women's Handbag,Accessories,U3039,5,This product has looks premium :),positive,30-03-2025
+R0265,P008,Mixer Grinder 750W,Home & Kitchen,U6554,5,This product has value for money :),positive,15-10-2025
+R0266,P006,Women's Handbag,Accessories,U2353,5,This product has highly recommended :),positive,11-06-2023
+R0267,P007,Gaming Mouse RGB,Electronics,U9937,4,This product has easy to use.,positive,30-07-2023
+R0268,P002,Stainless Steel Water Bottle,Home & Kitchen,U5843,5,This product has easy to use :),positive,22-05-2025
+R0269,P003,Men's Running Shoes,Clothing,U6759,5,This product has comfortable to use!,positive,23-12-2024
+R0270,P007,Gaming Mouse RGB,Electronics,U1939,5,This product has excellent build :),positive,14-01-2025
+R0271,P003,Men's Running Shoes,Clothing,U3339,4,This product has sound is clear :),positive,13-03-2023
+R0272,P003,Men's Running Shoes,Clothing,U4866,4,This product has very useful.,positive,11-01-2025
+R0273,P007,Gaming Mouse RGB,Electronics,U3513,4,This product has very useful :),positive,29-01-2025
+R0274,P006,Women's Handbag,Accessories,U2259,5,This product has sound is clear!!,positive,20-12-2025
+R0275,P006,Women's Handbag,Accessories,U6150,5,This product has very useful.,positive,26-05-2024
+R0276,P002,Stainless Steel Water Bottle,Home & Kitchen,U4048,4,This product has comfortable to use :),positive,30-08-2023
+R0277,P005,Cotton Bedsheet Set,Home & Kitchen,U8311,5,This product has fast delivery.,positive,02-10-2025
+R0278,P004,Smart LED TV 43 inch,Electronics,U3223,4,This product has excellent build :),positive,20-12-2023
+R0279,P008,Mixer Grinder 750W,Home & Kitchen,U6236,4,This product has very useful.,positive,13-05-2023
+R0280,P005,Cotton Bedsheet Set,Home & Kitchen,U3580,5,This product has highly recommended!!,positive,10-01-2025
+R0281,P004,Smart LED TV 43 inch,Electronics,U4292,4,This product has value for money!!,positive,08-10-2025
+R0282,P001,Wireless Bluetooth Earbuds,Electronics,U7044,5,This product has comfortable to use!!,positive,26-06-2023
+R0283,P002,Stainless Steel Water Bottle,Home & Kitchen,U7523,5,This product has highly recommended :),positive,12-12-2025
+R0284,P007,Gaming Mouse RGB,Electronics,U2208,5,This product has value for money.,positive,01-06-2023
+R0285,P008,Mixer Grinder 750W,Home & Kitchen,U9476,5,This product has looks premium!!,positive,08-01-2024
+R0286,P003,Men's Running Shoes,Clothing,U9238,5,This product has great quality!,positive,27-11-2025
+R0287,P003,Men's Running Shoes,Clothing,U3697,5,This product has value for money.,positive,06-04-2024
+R0288,P006,Women's Handbag,Accessories,U2292,5,This product has easy to use!!,positive,16-07-2024
+R0289,P003,Men's Running Shoes,Clothing,U9740,5,This product has excellent build!!,positive,12-11-2023
+R0290,P003,Men's Running Shoes,Clothing,U1674,5,This product has great quality!,positive,04-04-2023
+R0291,P005,Cotton Bedsheet Set,Home & Kitchen,U7825,4,This product has sound is clear!,positive,16-10-2025
+R0292,P005,Cotton Bedsheet Set,Home & Kitchen,U8912,5,This product has fast delivery :),positive,01-09-2024
+R0293,P008,Mixer Grinder 750W,Home & Kitchen,U1981,4,This product has value for money :),positive,01-05-2025
+R0294,P008,Mixer Grinder 750W,Home & Kitchen,U4342,5,This product has looks premium!!,positive,02-10-2024
+R0295,P006,Women's Handbag,Accessories,U7532,5,This product has value for money.,positive,20-11-2025
+R0296,P002,Stainless Steel Water Bottle,Home & Kitchen,U4960,5,This product has comfortable to use!,positive,01-07-2024
+R0297,P008,Mixer Grinder 750W,Home & Kitchen,U3308,4,This product has excellent build!,positive,17-08-2024
+R0298,P007,Gaming Mouse RGB,Electronics,U5067,5,This product has value for money.,positive,02-10-2024
+R0299,P004,Smart LED TV 43 inch,Electronics,U9163,4,This product has battery lasts long :),positive,18-10-2025
+R0300,P005,Cotton Bedsheet Set,Home & Kitchen,U1379,5,This product has excellent build :),positive,01-11-2025
+R0301,P008,Mixer Grinder 750W,Home & Kitchen,U4524,4,This product has sound is clear.,positive,10-04-2023
+R0302,P001,Wireless Bluetooth Earbuds,Electronics,U9108,5,This product has sound is clear :),positive,08-08-2024
+R0303,P001,Wireless Bluetooth Earbuds,Electronics,U8060,4,This product has value for money.,positive,19-01-2025
+R0304,P007,Gaming Mouse RGB,Electronics,U1741,5,This product has works perfectly!,positive,03-02-2024
+R0305,P006,Women's Handbag,Accessories,U2204,5,This product has works perfectly :),positive,26-07-2024
+R0306,P002,Stainless Steel Water Bottle,Home & Kitchen,U2584,4,This product has works perfectly.,positive,25-11-2024
+R0307,P006,Women's Handbag,Accessories,U4261,4,This product has sound is clear :),positive,21-10-2025
+R0308,P001,Wireless Bluetooth Earbuds,Electronics,U1637,4,This product has value for money.,positive,28-08-2025
+R0309,P008,Mixer Grinder 750W,Home & Kitchen,U9446,4,This product has value for money.,positive,14-10-2024
+R0310,P003,Men's Running Shoes,Clothing,U5902,5,This product has sound is clear.,positive,04-11-2025
+R0311,P008,Mixer Grinder 750W,Home & Kitchen,U8780,5,This product has great quality.,positive,09-11-2024
+R0312,P002,Stainless Steel Water Bottle,Home & Kitchen,U6040,5,This product has highly recommended!,positive,29-08-2025
+R0313,P005,Cotton Bedsheet Set,Home & Kitchen,U1841,4,This product has sound is clear :),positive,16-12-2023
+R0314,P007,Gaming Mouse RGB,Electronics,U4968,4,This product has great quality!,positive,26-01-2024
+R0315,P001,Wireless Bluetooth Earbuds,Electronics,U6139,5,This product has works perfectly!!,positive,25-04-2025
+R0316,P004,Smart LED TV 43 inch,Electronics,U9221,5,This product has sound is clear :),positive,08-05-2023
+R0317,P003,Men's Running Shoes,Clothing,U6325,4,This product has very useful :),positive,12-12-2025
+R0318,P007,Gaming Mouse RGB,Electronics,U3837,5,This product has comfortable to use.,positive,26-12-2024
+R0319,P005,Cotton Bedsheet Set,Home & Kitchen,U4150,5,This product has fast delivery.,positive,03-09-2024
+R0320,P004,Smart LED TV 43 inch,Electronics,U5735,5,This product has highly recommended!!,positive,28-09-2025
+R0321,P006,Women's Handbag,Accessories,U6714,5,This product has battery lasts long.,positive,12-08-2024
+R0322,P002,Stainless Steel Water Bottle,Home & Kitchen,U7464,5,This product has looks premium!!,positive,17-08-2024
+R0323,P001,Wireless Bluetooth Earbuds,Electronics,U2294,5,This product has looks premium :),positive,09-06-2024
+R0324,P008,Mixer Grinder 750W,Home & Kitchen,U4310,4,This product has battery lasts long.,positive,10-07-2024
+R0325,P003,Men's Running Shoes,Clothing,U4920,4,This product has fast delivery!,positive,23-12-2025
+R0326,P004,Smart LED TV 43 inch,Electronics,U1860,4,This product has excellent build :),positive,07-11-2024
+R0327,P008,Mixer Grinder 750W,Home & Kitchen,U3252,4,This product has great quality!!,positive,13-04-2025
+R0328,P008,Mixer Grinder 750W,Home & Kitchen,U4267,5,This product has easy to use.,positive,07-08-2024
+R0329,P001,Wireless Bluetooth Earbuds,Electronics,U4804,4,This product has battery lasts long!,positive,25-12-2023
+R0330,P007,Gaming Mouse RGB,Electronics,U1595,4,This product has works perfectly :),positive,17-01-2024
+R0331,P005,Cotton Bedsheet Set,Home & Kitchen,U1151,4,This product has easy to use!,positive,17-11-2024
+R0332,P005,Cotton Bedsheet Set,Home & Kitchen,U9901,5,This product has battery lasts long :),positive,02-10-2023
+R0333,P008,Mixer Grinder 750W,Home & Kitchen,U4159,5,This product has excellent build.,positive,29-11-2023
+R0334,P008,Mixer Grinder 750W,Home & Kitchen,U4050,5,This product has great quality.,positive,27-08-2024
+R0335,P004,Smart LED TV 43 inch,Electronics,U7643,4,This product has works perfectly.,positive,27-06-2023
+R0336,P007,Gaming Mouse RGB,Electronics,U4027,4,This product has value for money :),positive,24-10-2024
+R0337,P004,Smart LED TV 43 inch,Electronics,U5272,4,This product has works perfectly!!,positive,03-07-2025
+R0338,P005,Cotton Bedsheet Set,Home & Kitchen,U5947,5,This product has sound is clear!,positive,19-06-2024
+R0339,P006,Women's Handbag,Accessories,U2017,4,This product has very useful!,positive,11-08-2025
+R0340,P005,Cotton Bedsheet Set,Home & Kitchen,U7642,4,This product has very useful.,positive,29-08-2023
+R0341,P005,Cotton Bedsheet Set,Home & Kitchen,U4618,5,This product has fast delivery!!,positive,06-09-2025
+R0342,P003,Men's Running Shoes,Clothing,U7121,5,This product has works perfectly :),positive,23-03-2024
+R0343,P004,Smart LED TV 43 inch,Electronics,U9609,4,This product has comfortable to use.,positive,09-06-2023
+R0344,P002,Stainless Steel Water Bottle,Home & Kitchen,U9972,4,This product has battery lasts long!!,positive,03-11-2023
+R0345,P003,Men's Running Shoes,Clothing,U9525,5,This product has comfortable to use!,positive,25-02-2024
+R0346,P008,Mixer Grinder 750W,Home & Kitchen,U9361,4,This product has comfortable to use!,positive,17-07-2025
+R0347,P003,Men's Running Shoes,Clothing,U8484,5,This product has sound is clear!,positive,04-08-2025
+R0348,P005,Cotton Bedsheet Set,Home & Kitchen,U7487,4,This product has easy to use!,positive,22-03-2024
+R0349,P002,Stainless Steel Water Bottle,Home & Kitchen,U7941,4,This product has looks premium!,positive,04-05-2023
+R0350,P002,Stainless Steel Water Bottle,Home & Kitchen,U1519,5,This product has easy to use :),positive,04-01-2024
+R0351,P003,Men's Running Shoes,Clothing,U7135,5,This product has works perfectly :),positive,12-02-2025
+R0352,P007,Gaming Mouse RGB,Electronics,U9835,4,This product has value for money.,positive,31-08-2023
+R0353,P003,Men's Running Shoes,Clothing,U9664,5,This product has value for money!!,positive,08-01-2023
+R0354,P001,Wireless Bluetooth Earbuds,Electronics,U8585,5,This product has very useful :),positive,25-12-2025
+R0355,P007,Gaming Mouse RGB,Electronics,U5055,4,This product has comfortable to use.,positive,14-11-2023
+R0356,P005,Cotton Bedsheet Set,Home & Kitchen,U2848,4,This product has great quality :),positive,02-02-2023
+R0357,P004,Smart LED TV 43 inch,Electronics,U2102,4,This product has excellent build!,positive,03-07-2025
+R0358,P001,Wireless Bluetooth Earbuds,Electronics,U1724,4,This product has works perfectly :),positive,24-04-2024
+R0359,P004,Smart LED TV 43 inch,Electronics,U3295,4,This product has battery lasts long.,positive,24-04-2024
+R0360,P006,Women's Handbag,Accessories,U4881,5,This product has easy to use!!,positive,03-12-2025
+R0361,P004,Smart LED TV 43 inch,Electronics,U5923,5,This product has easy to use!,positive,25-12-2023
+R0362,P007,Gaming Mouse RGB,Electronics,U1768,5,This product has looks premium :),positive,10-12-2025
+R0363,P006,Women's Handbag,Accessories,U7688,5,This product has value for money.,positive,09-02-2025
+R0364,P003,Men's Running Shoes,Clothing,U4948,5,This product has fast delivery.,positive,23-10-2023
+R0365,P008,Mixer Grinder 750W,Home & Kitchen,U7761,4,This product has works perfectly!!,positive,06-03-2025
+R0366,P004,Smart LED TV 43 inch,Electronics,U4331,5,This product has looks premium!,positive,10-07-2025
+R0367,P006,Women's Handbag,Accessories,U9775,4,This product has highly recommended!!,positive,16-04-2023
+R0368,P005,Cotton Bedsheet Set,Home & Kitchen,U1647,5,This product has excellent build!!,positive,20-03-2024
+R0369,P008,Mixer Grinder 750W,Home & Kitchen,U6455,4,This product has easy to use!,positive,09-03-2024
+R0370,P004,Smart LED TV 43 inch,Electronics,U8846,4,This product has fast delivery!!,positive,23-03-2025
+R0371,P004,Smart LED TV 43 inch,Electronics,U5637,5,This product has works perfectly :),positive,28-12-2025
+R0372,P006,Women's Handbag,Accessories,U5285,5,This product has looks premium :),positive,12-08-2025
+R0373,P002,Stainless Steel Water Bottle,Home & Kitchen,U6246,5,This product has fast delivery.,positive,02-10-2024
+R0374,P007,Gaming Mouse RGB,Electronics,U4625,4,This product has highly recommended!!,positive,03-02-2023
+R0375,P005,Cotton Bedsheet Set,Home & Kitchen,U5836,5,This product has value for money!!,positive,06-11-2024
+R0376,P004,Smart LED TV 43 inch,Electronics,U5026,5,This product has comfortable to use.,positive,11-06-2024
+R0377,P008,Mixer Grinder 750W,Home & Kitchen,U8550,5,This product has value for money.,positive,13-12-2023
+R0378,P003,Men's Running Shoes,Clothing,U4015,5,This product has battery lasts long!,positive,09-12-2025
+R0379,P001,Wireless Bluetooth Earbuds,Electronics,U1794,4,This product has great quality :),positive,09-10-2023
+R0380,P004,Smart LED TV 43 inch,Electronics,U3474,4,This product has great quality!!,positive,01-11-2025
+R0381,P008,Mixer Grinder 750W,Home & Kitchen,U1990,5,This product has sound is clear :),positive,26-09-2025
+R0382,P001,Wireless Bluetooth Earbuds,Electronics,U9719,4,This product has battery lasts long :),positive,25-01-2023
+R0383,P001,Wireless Bluetooth Earbuds,Electronics,U9777,5,This product has easy to use!,positive,25-10-2025
+R0384,P007,Gaming Mouse RGB,Electronics,U2753,4,This product has excellent build!!,positive,08-05-2024
+R0385,P004,Smart LED TV 43 inch,Electronics,U6807,5,This product has easy to use :),positive,11-06-2023
+R0386,P006,Women's Handbag,Accessories,U8520,5,This product has sound is clear!!,positive,07-04-2024
+R0387,P005,Cotton Bedsheet Set,Home & Kitchen,U1519,4,This product has excellent build :),positive,15-02-2025
+R0388,P007,Gaming Mouse RGB,Electronics,U1919,5,This product has very useful!,positive,17-12-2023
+R0389,P002,Stainless Steel Water Bottle,Home & Kitchen,U8109,5,This product has very useful.,positive,15-07-2023
+R0390,P001,Wireless Bluetooth Earbuds,Electronics,U4463,4,This product has highly recommended :),positive,09-07-2024
+R0391,P001,Wireless Bluetooth Earbuds,Electronics,U5593,4,This product has battery lasts long!,positive,03-01-2024
+R0392,P006,Women's Handbag,Accessories,U4394,4,This product has sound is clear!!,positive,26-03-2025
+R0393,P002,Stainless Steel Water Bottle,Home & Kitchen,U3661,5,This product has sound is clear!!,positive,07-03-2025
+R0394,P006,Women's Handbag,Accessories,U3292,5,This product has highly recommended!,positive,22-10-2025
+R0395,P006,Women's Handbag,Accessories,U2600,4,This product has works perfectly!!,positive,05-06-2023
+R0396,P006,Women's Handbag,Accessories,U6347,5,This product has great quality.,positive,11-07-2025
+R0397,P008,Mixer Grinder 750W,Home & Kitchen,U6829,4,This product has battery lasts long :),positive,03-06-2025
+R0398,P003,Men's Running Shoes,Clothing,U2404,5,This product has sound is clear.,positive,19-05-2024
+R0399,P002,Stainless Steel Water Bottle,Home & Kitchen,U5390,4,This product has value for money :),positive,12-11-2023
+R0400,P007,Gaming Mouse RGB,Electronics,U6909,5,This product has excellent build!,positive,11-01-2023
+R0401,P005,Cotton Bedsheet Set,Home & Kitchen,U6896,5,This product has easy to use!,positive,29-09-2023
+R0402,P002,Stainless Steel Water Bottle,Home & Kitchen,U8061,4,This product has comfortable to use :),positive,31-07-2023
+R0403,P001,Wireless Bluetooth Earbuds,Electronics,U6798,4,This product has battery lasts long!,positive,26-10-2024
+R0404,P007,Gaming Mouse RGB,Electronics,U5781,4,This product has works perfectly :),positive,23-06-2023
+R0405,P004,Smart LED TV 43 inch,Electronics,U7237,4,This product has value for money!!,positive,04-07-2024
+R0406,P005,Cotton Bedsheet Set,Home & Kitchen,U9079,5,This product has value for money!,positive,09-12-2023
+R0407,P007,Gaming Mouse RGB,Electronics,U7899,5,This product has easy to use :),positive,07-06-2023
+R0408,P006,Women's Handbag,Accessories,U5040,5,This product has highly recommended :),positive,05-02-2024
+R0409,P008,Mixer Grinder 750W,Home & Kitchen,U3219,4,This product has easy to use!,positive,21-03-2025
+R0410,P006,Women's Handbag,Accessories,U6399,5,This product has comfortable to use.,positive,31-05-2025
+R0411,P003,Men's Running Shoes,Clothing,U6253,5,This product has sound is clear!!,positive,08-09-2025
+R0412,P006,Women's Handbag,Accessories,U7524,4,This product has looks premium.,positive,02-10-2025
+R0413,P004,Smart LED TV 43 inch,Electronics,U7161,5,This product has easy to use :),positive,17-01-2025
+R0414,P002,Stainless Steel Water Bottle,Home & Kitchen,U9939,4,This product has value for money!,positive,03-08-2025
+R0415,P004,Smart LED TV 43 inch,Electronics,U5773,5,This product has highly recommended!,positive,17-04-2025
+R0416,P008,Mixer Grinder 750W,Home & Kitchen,U5961,4,This product has fast delivery.,positive,12-11-2023
+R0417,P007,Gaming Mouse RGB,Electronics,U2211,5,This product has comfortable to use :),positive,31-03-2025
+R0418,P007,Gaming Mouse RGB,Electronics,U6890,4,This product has highly recommended!,positive,12-08-2023
+R0419,P004,Smart LED TV 43 inch,Electronics,U3725,5,This product has very useful!,positive,29-03-2025
+R0420,P006,Women's Handbag,Accessories,U2735,5,This product has great quality!,positive,13-06-2024
+R0421,P004,Smart LED TV 43 inch,Electronics,U8303,4,This product has looks premium :),positive,06-08-2025
+R0422,P003,Men's Running Shoes,Clothing,U1402,5,This product has comfortable to use!,positive,28-08-2024
+R0423,P007,Gaming Mouse RGB,Electronics,U2901,4,This product has highly recommended!!,positive,14-12-2024
+R0424,P005,Cotton Bedsheet Set,Home & Kitchen,U8460,5,This product has fast delivery :),positive,14-12-2024
+R0425,P008,Mixer Grinder 750W,Home & Kitchen,U8178,4,This product has highly recommended :),positive,15-10-2024
+R0426,P002,Stainless Steel Water Bottle,Home & Kitchen,U1732,5,This product has highly recommended!,positive,16-02-2023
+R0427,P006,Women's Handbag,Accessories,U3692,4,This product has highly recommended!!,positive,22-11-2025
+R0428,P003,Men's Running Shoes,Clothing,U6422,4,This product has battery lasts long :),positive,04-08-2025
+R0429,P004,Smart LED TV 43 inch,Electronics,U4022,5,This product has value for money :),positive,21-03-2025
+R0430,P001,Wireless Bluetooth Earbuds,Electronics,U8365,4,This product has sound is clear :),positive,07-03-2025
+R0431,P001,Wireless Bluetooth Earbuds,Electronics,U4371,4,This product has easy to use!,positive,28-07-2023
+R0432,P003,Men's Running Shoes,Clothing,U6340,5,This product has fast delivery :),positive,22-08-2023
+R0433,P005,Cotton Bedsheet Set,Home & Kitchen,U9646,5,This product has very useful.,positive,06-03-2025
+R0434,P007,Gaming Mouse RGB,Electronics,U6700,4,This product has looks premium :),positive,20-12-2023
+R0435,P005,Cotton Bedsheet Set,Home & Kitchen,U3194,4,This product has looks premium!,positive,03-05-2024
+R0436,P005,Cotton Bedsheet Set,Home & Kitchen,U3999,4,This product has looks premium!!,positive,12-11-2025
+R0437,P007,Gaming Mouse RGB,Electronics,U3258,5,This product has sound is clear :),positive,16-05-2025
+R0438,P003,Men's Running Shoes,Clothing,U9804,5,This product has highly recommended!!,positive,08-12-2023
+R0439,P008,Mixer Grinder 750W,Home & Kitchen,U3298,5,This product has value for money.,positive,12-07-2025
+R0440,P001,Wireless Bluetooth Earbuds,Electronics,U1157,5,This product has comfortable to use!!,positive,04-02-2024
+R0441,P007,Gaming Mouse RGB,Electronics,U7703,5,This product has very useful :),positive,01-05-2025
+R0442,P008,Mixer Grinder 750W,Home & Kitchen,U3740,5,This product has excellent build!,positive,27-03-2024
+R0443,P005,Cotton Bedsheet Set,Home & Kitchen,U5503,4,This product has fast delivery.,positive,11-12-2023
+R0444,P008,Mixer Grinder 750W,Home & Kitchen,U9369,5,This product has excellent build!,positive,02-07-2024
+R0445,P006,Women's Handbag,Accessories,U8231,4,This product has battery lasts long!!,positive,20-05-2025
+R0446,P002,Stainless Steel Water Bottle,Home & Kitchen,U5877,4,This product has great quality :),positive,22-06-2024
+R0447,P006,Women's Handbag,Accessories,U8193,4,This product has excellent build!!,positive,05-03-2024
+R0448,P006,Women's Handbag,Accessories,U3719,5,This product has sound is clear!!,positive,28-02-2024
+R0449,P004,Smart LED TV 43 inch,Electronics,U6747,4,This product has battery lasts long.,positive,11-12-2023
+R0450,P006,Women's Handbag,Accessories,U5740,5,This product has sound is clear.,positive,19-11-2025
+R0451,P002,Stainless Steel Water Bottle,Home & Kitchen,U7743,4,This product has great quality.,positive,17-09-2023
+R0452,P003,Men's Running Shoes,Clothing,U3396,4,This product has highly recommended.,positive,21-05-2024
+R0453,P007,Gaming Mouse RGB,Electronics,U3329,5,This product has sound is clear.,positive,28-04-2025
+R0454,P007,Gaming Mouse RGB,Electronics,U2237,5,This product has very useful!,positive,05-04-2025
+R0455,P005,Cotton Bedsheet Set,Home & Kitchen,U8449,5,This product has comfortable to use.,positive,06-01-2023
+R0456,P002,Stainless Steel Water Bottle,Home & Kitchen,U6869,5,This product has excellent build :),positive,22-03-2024
+R0457,P007,Gaming Mouse RGB,Electronics,U9105,4,This product has easy to use.,positive,03-08-2024
+R0458,P006,Women's Handbag,Accessories,U8951,4,This product has looks premium!,positive,05-04-2023
+R0459,P002,Stainless Steel Water Bottle,Home & Kitchen,U1266,5,This product has excellent build!!,positive,22-06-2025
+R0460,P008,Mixer Grinder 750W,Home & Kitchen,U8009,4,This product has fast delivery!!,positive,10-09-2024
+R0461,P003,Men's Running Shoes,Clothing,U2529,5,This product has very useful.,positive,27-05-2024
+R0462,P002,Stainless Steel Water Bottle,Home & Kitchen,U3711,5,This product has great quality :),positive,17-09-2024
+R0463,P004,Smart LED TV 43 inch,Electronics,U2494,5,This product has highly recommended!,positive,03-01-2023
+R0464,P004,Smart LED TV 43 inch,Electronics,U2276,5,This product has value for money!!,positive,29-11-2025
+R0465,P008,Mixer Grinder 750W,Home & Kitchen,U1132,4,This product has highly recommended.,positive,04-09-2023
+R0466,P007,Gaming Mouse RGB,Electronics,U8826,4,This product has excellent build!!,positive,23-02-2025
+R0467,P002,Stainless Steel Water Bottle,Home & Kitchen,U2690,4,This product has looks premium.,positive,04-09-2024
+R0468,P003,Men's Running Shoes,Clothing,U3181,5,This product has very useful!!,positive,21-05-2023
+R0469,P001,Wireless Bluetooth Earbuds,Electronics,U8210,4,This product has looks premium!!,positive,07-11-2023
+R0470,P007,Gaming Mouse RGB,Electronics,U4559,5,This product has excellent build!,positive,14-10-2023
+R0471,P002,Stainless Steel Water Bottle,Home & Kitchen,U6759,5,This product has works perfectly.,positive,14-10-2023
+R0472,P004,Smart LED TV 43 inch,Electronics,U2380,5,This product has fast delivery.,positive,24-02-2023
+R0473,P005,Cotton Bedsheet Set,Home & Kitchen,U9482,4,This product has sound is clear!!,positive,13-03-2025
+R0474,P005,Cotton Bedsheet Set,Home & Kitchen,U4921,4,This product has comfortable to use :),positive,19-08-2023
+R0475,P004,Smart LED TV 43 inch,Electronics,U2163,5,This product has battery lasts long!,positive,09-01-2025
+R0476,P006,Women's Handbag,Accessories,U7337,4,This product has sound is clear :),positive,18-01-2025
+R0477,P003,Men's Running Shoes,Clothing,U2195,5,This product has great quality!,positive,29-01-2023
+R0478,P005,Cotton Bedsheet Set,Home & Kitchen,U1652,4,This product has great quality :),positive,03-11-2025
+R0479,P005,Cotton Bedsheet Set,Home & Kitchen,U7939,5,This product has highly recommended :),positive,18-06-2023
+R0480,P003,Men's Running Shoes,Clothing,U2369,5,This product has easy to use!,positive,13-11-2025
+R0481,P004,Smart LED TV 43 inch,Electronics,U9788,4,This product has looks premium :),positive,16-05-2023
+R0482,P005,Cotton Bedsheet Set,Home & Kitchen,U4909,5,This product has great quality!!,positive,26-06-2023
+R0483,P007,Gaming Mouse RGB,Electronics,U8428,4,This product has sound is clear!,positive,25-09-2024
+R0484,P003,Men's Running Shoes,Clothing,U1207,4,This product has highly recommended!!,positive,24-01-2023
+R0485,P003,Men's Running Shoes,Clothing,U6680,5,This product has battery lasts long.,positive,08-12-2023
+R0486,P006,Women's Handbag,Accessories,U5403,4,This product has highly recommended!,positive,02-03-2023
+R0487,P006,Women's Handbag,Accessories,U5456,5,This product has battery lasts long!,positive,22-06-2024
+R0488,P002,Stainless Steel Water Bottle,Home & Kitchen,U8457,5,This product has battery lasts long.,positive,24-04-2023
+R0489,P008,Mixer Grinder 750W,Home & Kitchen,U7024,4,This product has value for money.,positive,30-07-2023
+R0490,P002,Stainless Steel Water Bottle,Home & Kitchen,U9336,4,This product has great quality!,positive,26-01-2023
+R0491,P004,Smart LED TV 43 inch,Electronics,U8729,4,This product has looks premium :),positive,04-11-2023
+R0492,P003,Men's Running Shoes,Clothing,U7870,4,This product has fast delivery.,positive,23-05-2024
+R0493,P007,Gaming Mouse RGB,Electronics,U5444,5,This product has excellent build.,positive,02-09-2023
+R0494,P001,Wireless Bluetooth Earbuds,Electronics,U4656,4,This product has battery lasts long!,positive,01-04-2025
+R0495,P002,Stainless Steel Water Bottle,Home & Kitchen,U5625,5,This product has easy to use.,positive,26-06-2023
+R0496,P008,Mixer Grinder 750W,Home & Kitchen,U7044,4,This product has fast delivery.,positive,14-09-2024
+R0497,P004,Smart LED TV 43 inch,Electronics,U7033,5,This product has sound is clear :),positive,05-02-2024
+R0498,P004,Smart LED TV 43 inch,Electronics,U1104,4,This product has works perfectly!,positive,22-04-2024
+R0499,P006,Women's Handbag,Accessories,U6488,4,This product has great quality :),positive,21-09-2024
+R0500,P002,Stainless Steel Water Bottle,Home & Kitchen,U9680,4,This product has fast delivery :),positive,04-10-2025
+R0501,P001,Wireless Bluetooth Earbuds,Electronics,U5584,1,This product has not worth the price.,negative,19-04-2024
+R0502,P007,Gaming Mouse RGB,Electronics,U8511,2,This product has bad experience.,negative,15-07-2023
+R0503,P003,Men's Running Shoes,Clothing,U2226,2,This product has uncomfortable.,negative,09-06-2025
+R0504,P003,Men's Running Shoes,Clothing,U5778,1,This product has cheap material :(,negative,15-03-2025
+R0505,P006,Women's Handbag,Accessories,U8417,2,This product has cheap material!!,negative,02-06-2023
+R0506,P004,Smart LED TV 43 inch,Electronics,U2785,1,This product has stopped working.,negative,03-12-2023
+R0507,P008,Mixer Grinder 750W,Home & Kitchen,U6145,2,This product has slow performance.,negative,03-01-2025
+R0508,P004,Smart LED TV 43 inch,Electronics,U6051,2,This product has defective item :(,negative,03-09-2023
+R0509,P002,Stainless Steel Water Bottle,Home & Kitchen,U5984,1,This product has bad experience.,negative,16-03-2024
+R0510,P006,Women's Handbag,Accessories,U2494,1,This product has bad experience!!,negative,29-12-2024
+R0511,P007,Gaming Mouse RGB,Electronics,U5896,1,This product has cheap material!!,negative,05-03-2023
+R0512,P007,Gaming Mouse RGB,Electronics,U5093,2,This product has not worth the price...,negative,28-07-2023
+R0513,P003,Men's Running Shoes,Clothing,U1195,1,This product has poor quality!!,negative,25-09-2023
+R0514,P004,Smart LED TV 43 inch,Electronics,U7098,2,This product has noisy operation.,negative,14-06-2024
+R0515,P002,Stainless Steel Water Bottle,Home & Kitchen,U2056,1,This product has very disappointed...,negative,21-09-2023
+R0516,P002,Stainless Steel Water Bottle,Home & Kitchen,U3007,2,This product has poor quality...,negative,14-04-2023
+R0517,P003,Men's Running Shoes,Clothing,U7471,2,This product has defective item.,negative,22-02-2025
+R0518,P007,Gaming Mouse RGB,Electronics,U6799,1,This product has very disappointed!!,negative,17-07-2024
+R0519,P005,Cotton Bedsheet Set,Home & Kitchen,U3435,2,This product has poor quality!!,negative,27-08-2024
+R0520,P008,Mixer Grinder 750W,Home & Kitchen,U8848,2,This product has poor quality.,negative,26-07-2024
+R0521,P007,Gaming Mouse RGB,Electronics,U7868,1,This product has very disappointed!!,negative,09-02-2023
+R0522,P007,Gaming Mouse RGB,Electronics,U8859,2,This product has not as described...,negative,05-12-2024
+R0523,P006,Women's Handbag,Accessories,U5430,2,This product has stopped working.,negative,15-10-2024
+R0524,P004,Smart LED TV 43 inch,Electronics,U5602,1,This product has poor quality...,negative,20-12-2025
+R0525,P006,Women's Handbag,Accessories,U3615,1,This product has not worth the price!!,negative,08-05-2024
+R0526,P005,Cotton Bedsheet Set,Home & Kitchen,U4594,1,This product has uncomfortable...,negative,27-12-2024
+R0527,P003,Men's Running Shoes,Clothing,U4875,1,This product has uncomfortable :(,negative,04-01-2025
+R0528,P001,Wireless Bluetooth Earbuds,Electronics,U3328,2,This product has uncomfortable!!,negative,05-10-2025
+R0529,P005,Cotton Bedsheet Set,Home & Kitchen,U9035,1,This product has poor quality.,negative,26-04-2023
+R0530,P004,Smart LED TV 43 inch,Electronics,U1326,1,This product has not as described...,negative,02-01-2023
+R0531,P006,Women's Handbag,Accessories,U3137,1,This product has battery drains fast!!,negative,24-10-2024
+R0532,P001,Wireless Bluetooth Earbuds,Electronics,U3420,1,This product has uncomfortable!!,negative,16-08-2023
+R0533,P006,Women's Handbag,Accessories,U7120,1,This product has bad experience...,negative,26-07-2023
+R0534,P006,Women's Handbag,Accessories,U6285,2,This product has stopped working!!,negative,13-06-2025
+R0535,P008,Mixer Grinder 750W,Home & Kitchen,U3854,2,This product has bad experience :(,negative,02-04-2024
+R0536,P003,Men's Running Shoes,Clothing,U6026,2,This product has bad experience :(,negative,18-09-2023
+R0537,P003,Men's Running Shoes,Clothing,U7415,1,This product has uncomfortable.,negative,08-01-2024
+R0538,P006,Women's Handbag,Accessories,U2705,1,This product has defective item!!,negative,09-11-2024
+R0539,P002,Stainless Steel Water Bottle,Home & Kitchen,U6682,1,This product has battery drains fast!!,negative,01-07-2023
+R0540,P006,Women's Handbag,Accessories,U1186,2,This product has cheap material!!,negative,26-05-2024
+R0541,P002,Stainless Steel Water Bottle,Home & Kitchen,U5205,2,This product has not worth the price.,negative,09-04-2023
+R0542,P007,Gaming Mouse RGB,Electronics,U7875,2,This product has stopped working...,negative,06-10-2025
+R0543,P007,Gaming Mouse RGB,Electronics,U9946,2,This product has slow performance.,negative,08-09-2025
+R0544,P004,Smart LED TV 43 inch,Electronics,U8393,1,This product has not worth the price.,negative,26-08-2024
+R0545,P001,Wireless Bluetooth Earbuds,Electronics,U5278,2,This product has not worth the price.,negative,01-12-2024
+R0546,P003,Men's Running Shoes,Clothing,U3636,2,This product has bad experience.,negative,10-07-2023
+R0547,P006,Women's Handbag,Accessories,U1507,2,This product has slow performance!!,negative,08-06-2025
+R0548,P003,Men's Running Shoes,Clothing,U2659,1,This product has battery drains fast!!,negative,25-01-2024
+R0549,P007,Gaming Mouse RGB,Electronics,U5612,2,This product has cheap material!!,negative,16-07-2023
+R0550,P001,Wireless Bluetooth Earbuds,Electronics,U9043,2,This product has stopped working.,negative,08-01-2025
+R0551,P001,Wireless Bluetooth Earbuds,Electronics,U2435,2,This product has cheap material...,negative,13-02-2024
+R0552,P002,Stainless Steel Water Bottle,Home & Kitchen,U4390,1,This product has stopped working :(,negative,17-06-2023
+R0553,P008,Mixer Grinder 750W,Home & Kitchen,U6052,1,This product has slow performance...,negative,28-09-2025
+R0554,P005,Cotton Bedsheet Set,Home & Kitchen,U9914,1,This product has slow performance!!,negative,29-01-2025
+R0555,P007,Gaming Mouse RGB,Electronics,U4056,2,This product has defective item.,negative,23-06-2024
+R0556,P008,Mixer Grinder 750W,Home & Kitchen,U5315,2,This product has very disappointed :(,negative,07-05-2023
+R0557,P003,Men's Running Shoes,Clothing,U2404,1,This product has noisy operation :(,negative,27-04-2025
+R0558,P004,Smart LED TV 43 inch,Electronics,U7342,1,This product has not as described...,negative,30-08-2025
+R0559,P004,Smart LED TV 43 inch,Electronics,U5896,2,This product has not worth the price...,negative,13-03-2023
+R0560,P003,Men's Running Shoes,Clothing,U8357,1,This product has stopped working!!,negative,09-03-2024
+R0561,P004,Smart LED TV 43 inch,Electronics,U1699,1,This product has slow performance.,negative,10-06-2025
+R0562,P004,Smart LED TV 43 inch,Electronics,U5225,1,This product has battery drains fast.,negative,28-06-2023
+R0563,P007,Gaming Mouse RGB,Electronics,U6343,2,This product has cheap material...,negative,26-01-2023
+R0564,P007,Gaming Mouse RGB,Electronics,U7790,1,This product has stopped working!!,negative,25-07-2023
+R0565,P002,Stainless Steel Water Bottle,Home & Kitchen,U5687,1,This product has not as described :(,negative,21-04-2025
+R0566,P005,Cotton Bedsheet Set,Home & Kitchen,U8955,2,This product has uncomfortable...,negative,18-03-2023
+R0567,P003,Men's Running Shoes,Clothing,U7602,2,This product has stopped working...,negative,21-03-2023
+R0568,P007,Gaming Mouse RGB,Electronics,U4892,2,This product has poor quality...,negative,04-07-2024
+R0569,P006,Women's Handbag,Accessories,U6535,1,This product has cheap material :(,negative,28-07-2024
+R0570,P008,Mixer Grinder 750W,Home & Kitchen,U4734,1,This product has stopped working :(,negative,26-06-2025
+R0571,P006,Women's Handbag,Accessories,U7828,2,This product has uncomfortable.,negative,20-01-2024
+R0572,P008,Mixer Grinder 750W,Home & Kitchen,U7671,1,This product has bad experience...,negative,23-11-2025
+R0573,P006,Women's Handbag,Accessories,U9442,1,This product has stopped working.,negative,29-09-2024
+R0574,P007,Gaming Mouse RGB,Electronics,U9589,1,This product has uncomfortable.,negative,22-12-2023
+R0575,P004,Smart LED TV 43 inch,Electronics,U1944,1,This product has very disappointed.,negative,23-07-2025
+R0576,P001,Wireless Bluetooth Earbuds,Electronics,U4262,2,This product has cheap material :(,negative,08-08-2025
+R0577,P007,Gaming Mouse RGB,Electronics,U1500,1,This product has very disappointed :(,negative,28-09-2025
+R0578,P008,Mixer Grinder 750W,Home & Kitchen,U8775,1,This product has uncomfortable :(,negative,06-12-2024
+R0579,P003,Men's Running Shoes,Clothing,U2480,2,This product has cheap material.,negative,02-03-2025
+R0580,P001,Wireless Bluetooth Earbuds,Electronics,U4511,1,This product has very disappointed!!,negative,28-02-2024
+R0581,P005,Cotton Bedsheet Set,Home & Kitchen,U9409,2,This product has poor quality.,negative,28-08-2025
+R0582,P003,Men's Running Shoes,Clothing,U1138,1,This product has very disappointed :(,negative,17-09-2024
+R0583,P005,Cotton Bedsheet Set,Home & Kitchen,U7168,2,This product has battery drains fast...,negative,31-05-2024
+R0584,P004,Smart LED TV 43 inch,Electronics,U5950,2,This product has noisy operation...,negative,29-07-2023
+R0585,P001,Wireless Bluetooth Earbuds,Electronics,U5631,2,This product has cheap material.,negative,13-09-2025
+R0586,P002,Stainless Steel Water Bottle,Home & Kitchen,U5529,2,This product has noisy operation :(,negative,21-07-2024
+R0587,P005,Cotton Bedsheet Set,Home & Kitchen,U4086,2,This product has stopped working!!,negative,27-04-2023
+R0588,P007,Gaming Mouse RGB,Electronics,U3292,2,This product has bad experience.,negative,15-10-2025
+R0589,P005,Cotton Bedsheet Set,Home & Kitchen,U7857,2,This product has slow performance...,negative,14-03-2023
+R0590,P004,Smart LED TV 43 inch,Electronics,U4643,2,This product has noisy operation...,negative,04-01-2025
+R0591,P005,Cotton Bedsheet Set,Home & Kitchen,U3967,1,This product has cheap material.,negative,22-08-2025
+R0592,P003,Men's Running Shoes,Clothing,U3999,2,This product has noisy operation :(,negative,02-07-2023
+R0593,P004,Smart LED TV 43 inch,Electronics,U4659,2,This product has bad experience :(,negative,11-05-2025
+R0594,P006,Women's Handbag,Accessories,U5269,2,This product has uncomfortable :(,negative,07-08-2025
+R0595,P002,Stainless Steel Water Bottle,Home & Kitchen,U1879,2,This product has noisy operation.,negative,25-08-2025
+R0596,P004,Smart LED TV 43 inch,Electronics,U7253,1,This product has not as described :(,negative,26-04-2025
+R0597,P001,Wireless Bluetooth Earbuds,Electronics,U3250,1,This product has very disappointed :(,negative,18-04-2025
+R0598,P008,Mixer Grinder 750W,Home & Kitchen,U6183,1,This product has bad experience!!,negative,15-06-2023
+R0599,P008,Mixer Grinder 750W,Home & Kitchen,U3897,2,This product has battery drains fast.,negative,10-01-2023
+R0600,P008,Mixer Grinder 750W,Home & Kitchen,U4430,2,This product has stopped working!!,negative,29-09-2025
+R0601,P002,Stainless Steel Water Bottle,Home & Kitchen,U8105,1,This product has noisy operation...,negative,06-04-2025
+R0602,P007,Gaming Mouse RGB,Electronics,U7280,2,This product has poor quality.,negative,29-12-2025
+R0603,P004,Smart LED TV 43 inch,Electronics,U1230,2,This product has battery drains fast!!,negative,06-02-2023
+R0604,P001,Wireless Bluetooth Earbuds,Electronics,U4707,1,This product has bad experience :(,negative,01-10-2024
+R0605,P003,Men's Running Shoes,Clothing,U7284,1,This product has not as described :(,negative,09-12-2023
+R0606,P002,Stainless Steel Water Bottle,Home & Kitchen,U5885,1,This product has cheap material...,negative,01-12-2025
+R0607,P006,Women's Handbag,Accessories,U3192,2,This product has battery drains fast...,negative,05-01-2025
+R0608,P004,Smart LED TV 43 inch,Electronics,U7609,1,This product has poor quality!!,negative,04-04-2024
+R0609,P003,Men's Running Shoes,Clothing,U1359,1,This product has uncomfortable!!,negative,10-09-2023
+R0610,P006,Women's Handbag,Accessories,U7147,1,This product has noisy operation :(,negative,31-12-2025
+R0611,P001,Wireless Bluetooth Earbuds,Electronics,U2771,1,This product has noisy operation.,negative,09-04-2023
+R0612,P002,Stainless Steel Water Bottle,Home & Kitchen,U8279,2,This product has slow performance.,negative,01-06-2024
+R0613,P008,Mixer Grinder 750W,Home & Kitchen,U4366,1,This product has bad experience.,negative,08-09-2024
+R0614,P007,Gaming Mouse RGB,Electronics,U9524,1,This product has cheap material!!,negative,07-05-2025
+R0615,P002,Stainless Steel Water Bottle,Home & Kitchen,U5631,1,This product has not worth the price.,negative,16-10-2025
+R0616,P004,Smart LED TV 43 inch,Electronics,U5308,1,This product has not as described!!,negative,03-01-2025
+R0617,P007,Gaming Mouse RGB,Electronics,U3627,2,This product has poor quality...,negative,01-03-2024
+R0618,P008,Mixer Grinder 750W,Home & Kitchen,U4842,2,This product has poor quality.,negative,02-07-2023
+R0619,P002,Stainless Steel Water Bottle,Home & Kitchen,U3443,2,This product has not worth the price.,negative,27-07-2023
+R0620,P005,Cotton Bedsheet Set,Home & Kitchen,U8483,1,This product has cheap material :(,negative,08-08-2025
+R0621,P001,Wireless Bluetooth Earbuds,Electronics,U3862,1,This product has poor quality :(,negative,07-01-2025
+R0622,P006,Women's Handbag,Accessories,U2898,2,This product has not worth the price.,negative,20-01-2023
+R0623,P003,Men's Running Shoes,Clothing,U6384,1,This product has battery drains fast...,negative,03-07-2024
+R0624,P002,Stainless Steel Water Bottle,Home & Kitchen,U6615,2,This product has stopped working.,negative,31-03-2025
+R0625,P007,Gaming Mouse RGB,Electronics,U5453,2,This product has slow performance...,negative,13-05-2025
+R0626,P003,Men's Running Shoes,Clothing,U3171,1,This product has bad experience.,negative,23-11-2023
+R0627,P002,Stainless Steel Water Bottle,Home & Kitchen,U8908,2,This product has uncomfortable...,negative,07-01-2024
+R0628,P007,Gaming Mouse RGB,Electronics,U1472,2,This product has noisy operation!!,negative,16-09-2025
+R0629,P008,Mixer Grinder 750W,Home & Kitchen,U7738,1,This product has defective item.,negative,10-05-2023
+R0630,P005,Cotton Bedsheet Set,Home & Kitchen,U1202,2,This product has bad experience!!,negative,23-11-2024
+R0631,P002,Stainless Steel Water Bottle,Home & Kitchen,U5072,2,This product has defective item :(,negative,27-02-2025
+R0632,P003,Men's Running Shoes,Clothing,U1190,1,This product has noisy operation!!,negative,01-11-2025
+R0633,P008,Mixer Grinder 750W,Home & Kitchen,U3709,2,This product has not worth the price...,negative,18-10-2024
+R0634,P004,Smart LED TV 43 inch,Electronics,U5557,2,This product has poor quality!!,negative,14-02-2025
+R0635,P007,Gaming Mouse RGB,Electronics,U2291,1,This product has defective item...,negative,06-07-2025
+R0636,P002,Stainless Steel Water Bottle,Home & Kitchen,U8324,2,This product has battery drains fast.,negative,15-10-2025
+R0637,P001,Wireless Bluetooth Earbuds,Electronics,U7609,1,This product has slow performance.,negative,01-01-2023
+R0638,P002,Stainless Steel Water Bottle,Home & Kitchen,U9328,2,This product has not as described!!,negative,23-07-2025
+R0639,P006,Women's Handbag,Accessories,U1889,2,This product has very disappointed...,negative,10-11-2024
+R0640,P008,Mixer Grinder 750W,Home & Kitchen,U8414,2,This product has not worth the price.,negative,30-03-2024
+R0641,P001,Wireless Bluetooth Earbuds,Electronics,U6818,2,This product has noisy operation :(,negative,05-12-2025
+R0642,P006,Women's Handbag,Accessories,U1750,1,This product has stopped working...,negative,15-10-2023
+R0643,P007,Gaming Mouse RGB,Electronics,U5166,1,This product has uncomfortable!!,negative,20-01-2024
+R0644,P002,Stainless Steel Water Bottle,Home & Kitchen,U4532,2,This product has defective item!!,negative,23-11-2024
+R0645,P002,Stainless Steel Water Bottle,Home & Kitchen,U1761,2,This product has noisy operation.,negative,11-07-2025
+R0646,P008,Mixer Grinder 750W,Home & Kitchen,U9172,1,This product has poor quality.,negative,05-06-2025
+R0647,P008,Mixer Grinder 750W,Home & Kitchen,U3845,1,This product has bad experience!!,negative,01-08-2023
+R0648,P007,Gaming Mouse RGB,Electronics,U9259,2,This product has slow performance...,negative,23-05-2024
+R0649,P005,Cotton Bedsheet Set,Home & Kitchen,U6617,2,This product has cheap material...,negative,01-10-2023
+R0650,P003,Men's Running Shoes,Clothing,U9393,2,This product has cheap material :(,negative,21-03-2024
+R0651,P004,Smart LED TV 43 inch,Electronics,U5760,1,This product has noisy operation :(,negative,29-09-2023
+R0652,P003,Men's Running Shoes,Clothing,U2890,2,This product has battery drains fast...,negative,04-05-2025
+R0653,P005,Cotton Bedsheet Set,Home & Kitchen,U1209,2,This product has not as described.,negative,21-02-2023
+R0654,P007,Gaming Mouse RGB,Electronics,U1869,1,This product has noisy operation.,negative,14-02-2024
+R0655,P005,Cotton Bedsheet Set,Home & Kitchen,U5695,1,This product has noisy operation :(,negative,27-10-2023
+R0656,P001,Wireless Bluetooth Earbuds,Electronics,U4342,2,This product has not as described.,negative,04-01-2025
+R0657,P008,Mixer Grinder 750W,Home & Kitchen,U4675,1,This product has bad experience...,negative,01-05-2024
+R0658,P005,Cotton Bedsheet Set,Home & Kitchen,U7251,1,This product has slow performance...,negative,02-10-2024
+R0659,P001,Wireless Bluetooth Earbuds,Electronics,U5117,1,This product has very disappointed...,negative,06-04-2024
+R0660,P006,Women's Handbag,Accessories,U4170,1,This product has cheap material...,negative,30-12-2023
+R0661,P002,Stainless Steel Water Bottle,Home & Kitchen,U3847,1,This product has bad experience.,negative,11-02-2025
+R0662,P001,Wireless Bluetooth Earbuds,Electronics,U5572,2,This product has not as described :(,negative,24-09-2023
+R0663,P003,Men's Running Shoes,Clothing,U1092,2,This product has battery drains fast...,negative,14-11-2023
+R0664,P001,Wireless Bluetooth Earbuds,Electronics,U6285,1,This product has uncomfortable.,negative,08-09-2024
+R0665,P008,Mixer Grinder 750W,Home & Kitchen,U2194,2,This product has bad experience :(,negative,12-12-2025
+R0666,P004,Smart LED TV 43 inch,Electronics,U9529,1,This product has not worth the price!!,negative,01-05-2025
+R0667,P007,Gaming Mouse RGB,Electronics,U6724,1,This product has very disappointed!!,negative,10-11-2024
+R0668,P006,Women's Handbag,Accessories,U5809,2,This product has very disappointed...,negative,19-01-2023
+R0669,P002,Stainless Steel Water Bottle,Home & Kitchen,U8301,2,This product has very disappointed!!,negative,23-03-2023
+R0670,P006,Women's Handbag,Accessories,U2857,2,This product has slow performance :(,negative,02-08-2024
+R0671,P001,Wireless Bluetooth Earbuds,Electronics,U9426,2,This product has not as described...,negative,23-09-2025
+R0672,P001,Wireless Bluetooth Earbuds,Electronics,U4154,2,This product has battery drains fast.,negative,16-07-2023
+R0673,P003,Men's Running Shoes,Clothing,U2072,1,This product has very disappointed!!,negative,18-05-2025
+R0674,P002,Stainless Steel Water Bottle,Home & Kitchen,U9810,1,This product has bad experience...,negative,28-05-2023
+R0675,P003,Men's Running Shoes,Clothing,U8523,1,This product has bad experience :(,negative,19-03-2023
+R0676,P002,Stainless Steel Water Bottle,Home & Kitchen,U1889,1,This product has stopped working :(,negative,25-05-2023
+R0677,P004,Smart LED TV 43 inch,Electronics,U7678,2,This product has slow performance...,negative,08-04-2025
+R0678,P007,Gaming Mouse RGB,Electronics,U1276,2,This product has slow performance.,negative,31-12-2025
+R0679,P001,Wireless Bluetooth Earbuds,Electronics,U1745,1,This product has bad experience.,negative,02-01-2025
+R0680,P002,Stainless Steel Water Bottle,Home & Kitchen,U5937,2,This product has uncomfortable.,negative,30-07-2024
+R0681,P008,Mixer Grinder 750W,Home & Kitchen,U7473,2,This product has noisy operation.,negative,28-08-2025
+R0682,P003,Men's Running Shoes,Clothing,U3234,1,This product has bad experience...,negative,27-08-2024
+R0683,P003,Men's Running Shoes,Clothing,U7113,2,This product has poor quality!!,negative,10-09-2023
+R0684,P001,Wireless Bluetooth Earbuds,Electronics,U7456,1,This product has not as described.,negative,16-09-2024
+R0685,P004,Smart LED TV 43 inch,Electronics,U4469,2,This product has slow performance!!,negative,26-11-2023
+R0686,P003,Men's Running Shoes,Clothing,U5140,1,This product has very disappointed.,negative,07-01-2024
+R0687,P001,Wireless Bluetooth Earbuds,Electronics,U2198,2,This product has cheap material.,negative,28-05-2024
+R0688,P002,Stainless Steel Water Bottle,Home & Kitchen,U8982,1,This product has battery drains fast :(,negative,20-09-2023
+R0689,P004,Smart LED TV 43 inch,Electronics,U5671,1,This product has uncomfortable.,negative,01-02-2024
+R0690,P006,Women's Handbag,Accessories,U8383,2,This product has battery drains fast :(,negative,09-11-2023
+R0691,P006,Women's Handbag,Accessories,U8017,2,This product has stopped working.,negative,03-10-2024
+R0692,P004,Smart LED TV 43 inch,Electronics,U8145,1,This product has cheap material :(,negative,03-10-2023
+R0693,P006,Women's Handbag,Accessories,U8583,2,This product has defective item :(,negative,17-09-2024
+R0694,P008,Mixer Grinder 750W,Home & Kitchen,U3879,1,This product has noisy operation.,negative,28-07-2024
+R0695,P003,Men's Running Shoes,Clothing,U5312,1,This product has bad experience.,negative,04-06-2023
+R0696,P001,Wireless Bluetooth Earbuds,Electronics,U7637,1,This product has uncomfortable!!,negative,17-03-2023
+R0697,P005,Cotton Bedsheet Set,Home & Kitchen,U3435,2,This product has battery drains fast...,negative,02-04-2024
+R0698,P005,Cotton Bedsheet Set,Home & Kitchen,U8613,1,This product has not as described.,negative,23-03-2025
+R0699,P006,Women's Handbag,Accessories,U4913,1,This product has uncomfortable!!,negative,18-11-2025
+R0700,P003,Men's Running Shoes,Clothing,U3608,2,This product has stopped working!!,negative,17-09-2025
+R0701,P006,Women's Handbag,Accessories,U4585,1,This product has defective item!!,negative,09-05-2023
+R0702,P005,Cotton Bedsheet Set,Home & Kitchen,U4834,2,This product has poor quality!!,negative,26-11-2025
+R0703,P006,Women's Handbag,Accessories,U8695,2,This product has defective item.,negative,23-03-2023
+R0704,P006,Women's Handbag,Accessories,U9542,1,This product has noisy operation :(,negative,23-06-2024
+R0705,P003,Men's Running Shoes,Clothing,U7201,2,This product has battery drains fast.,negative,24-11-2025
+R0706,P005,Cotton Bedsheet Set,Home & Kitchen,U4651,2,This product has not as described...,negative,23-12-2024
+R0707,P006,Women's Handbag,Accessories,U8898,2,This product has uncomfortable.,negative,24-10-2025
+R0708,P003,Men's Running Shoes,Clothing,U3713,2,This product has very disappointed.,negative,19-11-2025
+R0709,P005,Cotton Bedsheet Set,Home & Kitchen,U3461,1,This product has stopped working!!,negative,11-01-2025
+R0710,P002,Stainless Steel Water Bottle,Home & Kitchen,U7793,1,This product has battery drains fast.,negative,13-09-2025
+R0711,P008,Mixer Grinder 750W,Home & Kitchen,U4452,2,This product has uncomfortable!!,negative,21-04-2025
+R0712,P001,Wireless Bluetooth Earbuds,Electronics,U1706,1,This product has stopped working!!,negative,03-10-2023
+R0713,P001,Wireless Bluetooth Earbuds,Electronics,U1916,1,This product has stopped working :(,negative,04-01-2024
+R0714,P007,Gaming Mouse RGB,Electronics,U5644,1,This product has not worth the price!!,negative,08-07-2025
+R0715,P008,Mixer Grinder 750W,Home & Kitchen,U3794,2,This product has very disappointed...,negative,20-10-2023
+R0716,P003,Men's Running Shoes,Clothing,U3747,2,This product has bad experience :(,negative,17-07-2025
+R0717,P002,Stainless Steel Water Bottle,Home & Kitchen,U7196,1,This product has slow performance!!,negative,11-08-2023
+R0718,P001,Wireless Bluetooth Earbuds,Electronics,U9564,1,This product has not as described...,negative,03-11-2023
+R0719,P002,Stainless Steel Water Bottle,Home & Kitchen,U8796,1,This product has uncomfortable.,negative,24-12-2025
+R0720,P002,Stainless Steel Water Bottle,Home & Kitchen,U8901,1,This product has noisy operation!!,negative,03-01-2023
+R0721,P007,Gaming Mouse RGB,Electronics,U7068,2,This product has poor quality...,negative,14-04-2024
+R0722,P008,Mixer Grinder 750W,Home & Kitchen,U6742,2,This product has uncomfortable.,negative,21-05-2025
+R0723,P003,Men's Running Shoes,Clothing,U8817,2,This product has very disappointed.,negative,03-08-2024
+R0724,P007,Gaming Mouse RGB,Electronics,U4096,2,This product has poor quality.,negative,06-12-2025
+R0725,P002,Stainless Steel Water Bottle,Home & Kitchen,U7144,1,This product has noisy operation!!,negative,08-10-2024
+R0726,P007,Gaming Mouse RGB,Electronics,U2746,2,This product has stopped working...,negative,03-06-2024
+R0727,P005,Cotton Bedsheet Set,Home & Kitchen,U6990,2,This product has uncomfortable :(,negative,24-03-2025
+R0728,P004,Smart LED TV 43 inch,Electronics,U8904,2,This product has stopped working :(,negative,17-09-2025
+R0729,P005,Cotton Bedsheet Set,Home & Kitchen,U6641,2,This product has bad experience...,negative,10-10-2023
+R0730,P002,Stainless Steel Water Bottle,Home & Kitchen,U8317,1,This product has bad experience!!,negative,25-07-2023
+R0731,P004,Smart LED TV 43 inch,Electronics,U6544,2,This product has not as described.,negative,26-11-2023
+R0732,P007,Gaming Mouse RGB,Electronics,U2492,1,This product has stopped working...,negative,10-06-2025
+R0733,P002,Stainless Steel Water Bottle,Home & Kitchen,U5310,1,This product has very disappointed :(,negative,13-06-2023
+R0734,P001,Wireless Bluetooth Earbuds,Electronics,U7564,2,This product has uncomfortable :(,negative,28-04-2023
+R0735,P003,Men's Running Shoes,Clothing,U8192,2,This product has poor quality!!,negative,27-11-2025
+R0736,P005,Cotton Bedsheet Set,Home & Kitchen,U1550,1,This product has uncomfortable!!,negative,14-12-2023
+R0737,P001,Wireless Bluetooth Earbuds,Electronics,U4919,2,This product has noisy operation.,negative,19-11-2023
+R0738,P002,Stainless Steel Water Bottle,Home & Kitchen,U7544,2,This product has battery drains fast...,negative,10-04-2025
+R0739,P004,Smart LED TV 43 inch,Electronics,U2124,1,This product has not worth the price :(,negative,13-12-2024
+R0740,P006,Women's Handbag,Accessories,U4707,2,This product has uncomfortable!!,negative,20-07-2025
+R0741,P007,Gaming Mouse RGB,Electronics,U5277,1,This product has stopped working...,negative,02-11-2025
+R0742,P002,Stainless Steel Water Bottle,Home & Kitchen,U9243,1,This product has cheap material :(,negative,28-08-2023
+R0743,P005,Cotton Bedsheet Set,Home & Kitchen,U8254,2,This product has slow performance...,negative,13-05-2024
+R0744,P006,Women's Handbag,Accessories,U8548,2,This product has uncomfortable.,negative,14-09-2025
+R0745,P002,Stainless Steel Water Bottle,Home & Kitchen,U2106,2,This product has slow performance!!,negative,15-04-2024
+R0746,P006,Women's Handbag,Accessories,U6785,2,This product has not as described.,negative,23-06-2024
+R0747,P004,Smart LED TV 43 inch,Electronics,U2523,2,This product has slow performance :(,negative,05-06-2023
+R0748,P003,Men's Running Shoes,Clothing,U6142,2,This product has battery drains fast!!,negative,05-07-2024
+R0749,P003,Men's Running Shoes,Clothing,U9175,1,This product has bad experience!!,negative,25-04-2024
+R0750,P004,Smart LED TV 43 inch,Electronics,U4387,2,This product has very disappointed!!,negative,26-05-2024
+R0751,P006,Women's Handbag,Accessories,U2747,1,This product has not worth the price.,negative,05-10-2025
+R0752,P001,Wireless Bluetooth Earbuds,Electronics,U8901,1,This product has battery drains fast :(,negative,05-10-2025
+R0753,P005,Cotton Bedsheet Set,Home & Kitchen,U3996,2,This product has not as described :(,negative,25-03-2025
+R0754,P004,Smart LED TV 43 inch,Electronics,U1887,1,This product has not as described...,negative,06-09-2025
+R0755,P001,Wireless Bluetooth Earbuds,Electronics,U7450,2,This product has noisy operation!!,negative,25-07-2025
+R0756,P002,Stainless Steel Water Bottle,Home & Kitchen,U6171,2,This product has bad experience.,negative,25-01-2023
+R0757,P004,Smart LED TV 43 inch,Electronics,U2650,2,This product has battery drains fast :(,negative,15-06-2024
+R0758,P003,Men's Running Shoes,Clothing,U4885,2,This product has cheap material...,negative,03-12-2024
+R0759,P006,Women's Handbag,Accessories,U9171,1,This product has slow performance!!,negative,08-05-2025
+R0760,P006,Women's Handbag,Accessories,U7563,2,This product has cheap material...,negative,04-01-2024
+R0761,P003,Men's Running Shoes,Clothing,U2636,1,This product has bad experience :(,negative,27-04-2024
+R0762,P007,Gaming Mouse RGB,Electronics,U4212,2,This product has stopped working!!,negative,26-08-2025
+R0763,P001,Wireless Bluetooth Earbuds,Electronics,U7906,1,This product has defective item!!,negative,24-11-2025
+R0764,P006,Women's Handbag,Accessories,U5915,2,This product has cheap material.,negative,26-03-2025
+R0765,P002,Stainless Steel Water Bottle,Home & Kitchen,U1983,1,This product has very disappointed :(,negative,02-09-2025
+R0766,P002,Stainless Steel Water Bottle,Home & Kitchen,U6483,2,This product has cheap material :(,negative,07-01-2025
+R0767,P005,Cotton Bedsheet Set,Home & Kitchen,U1324,2,This product has slow performance.,negative,20-12-2024
+R0768,P004,Smart LED TV 43 inch,Electronics,U5663,1,This product has battery drains fast :(,negative,11-11-2025
+R0769,P008,Mixer Grinder 750W,Home & Kitchen,U2284,2,This product has slow performance :(,negative,07-08-2025
+R0770,P003,Men's Running Shoes,Clothing,U6527,1,This product has slow performance...,negative,27-05-2023
+R0771,P002,Stainless Steel Water Bottle,Home & Kitchen,U6629,1,This product has very disappointed :(,negative,10-10-2024
+R0772,P005,Cotton Bedsheet Set,Home & Kitchen,U7479,2,This product has cheap material...,negative,13-01-2025
+R0773,P008,Mixer Grinder 750W,Home & Kitchen,U3741,2,This product has stopped working.,negative,14-09-2023
+R0774,P004,Smart LED TV 43 inch,Electronics,U2311,2,This product has very disappointed!!,negative,24-03-2025
+R0775,P002,Stainless Steel Water Bottle,Home & Kitchen,U2045,1,This product has defective item.,negative,23-02-2023
+R0776,P007,Gaming Mouse RGB,Electronics,U2702,1,This product has cheap material!!,negative,22-06-2023
+R0777,P007,Gaming Mouse RGB,Electronics,U4757,2,This product has very disappointed :(,negative,26-06-2025
+R0778,P003,Men's Running Shoes,Clothing,U9630,1,This product has stopped working.,negative,13-03-2023
+R0779,P006,Women's Handbag,Accessories,U8801,2,This product has defective item :(,negative,30-06-2025
+R0780,P003,Men's Running Shoes,Clothing,U8480,1,This product has noisy operation...,negative,08-12-2025
+R0781,P005,Cotton Bedsheet Set,Home & Kitchen,U8891,2,This product has not as described!!,negative,03-07-2023
+R0782,P008,Mixer Grinder 750W,Home & Kitchen,U6992,2,This product has slow performance :(,negative,15-11-2023
+R0783,P005,Cotton Bedsheet Set,Home & Kitchen,U1001,1,This product has not as described!!,negative,05-12-2024
+R0784,P005,Cotton Bedsheet Set,Home & Kitchen,U9767,2,This product has poor quality...,negative,04-09-2025
+R0785,P005,Cotton Bedsheet Set,Home & Kitchen,U8052,1,This product has cheap material!!,negative,15-01-2023
+R0786,P006,Women's Handbag,Accessories,U7745,1,This product has not as described...,negative,19-03-2025
+R0787,P004,Smart LED TV 43 inch,Electronics,U7385,1,This product has slow performance!!,negative,22-06-2024
+R0788,P002,Stainless Steel Water Bottle,Home & Kitchen,U4924,2,This product has not as described :(,negative,06-08-2024
+R0789,P005,Cotton Bedsheet Set,Home & Kitchen,U4080,2,This product has not worth the price!!,negative,07-10-2023
+R0790,P005,Cotton Bedsheet Set,Home & Kitchen,U8460,1,This product has uncomfortable...,negative,11-07-2024
+R0791,P008,Mixer Grinder 750W,Home & Kitchen,U6253,1,This product has poor quality!!,negative,12-04-2023
+R0792,P001,Wireless Bluetooth Earbuds,Electronics,U2675,1,This product has cheap material :(,negative,14-09-2023
+R0793,P008,Mixer Grinder 750W,Home & Kitchen,U4814,1,This product has not worth the price!!,negative,31-01-2023
+R0794,P008,Mixer Grinder 750W,Home & Kitchen,U6601,1,This product has slow performance :(,negative,17-10-2025
+R0795,P006,Women's Handbag,Accessories,U1519,2,This product has battery drains fast.,negative,27-10-2023
+R0796,P001,Wireless Bluetooth Earbuds,Electronics,U7429,2,This product has not worth the price...,negative,07-01-2024
+R0797,P004,Smart LED TV 43 inch,Electronics,U7251,2,This product has poor quality.,negative,24-05-2024
+R0798,P007,Gaming Mouse RGB,Electronics,U5049,2,This product has bad experience.,negative,12-02-2024
+R0799,P008,Mixer Grinder 750W,Home & Kitchen,U9538,1,This product has noisy operation!!,negative,26-08-2025
+R0800,P007,Gaming Mouse RGB,Electronics,U6293,2,This product has stopped working.,negative,02-12-2025
+R0801,P002,Stainless Steel Water Bottle,Home & Kitchen,U8884,2,This product has noisy operation :(,negative,11-02-2024
+R0802,P006,Women's Handbag,Accessories,U4568,1,This product has not worth the price!!,negative,08-06-2025
+R0803,P006,Women's Handbag,Accessories,U3742,1,This product has cheap material.,negative,21-03-2025
+R0804,P004,Smart LED TV 43 inch,Electronics,U1688,1,This product has uncomfortable...,negative,14-11-2023
+R0805,P006,Women's Handbag,Accessories,U5075,1,This product has stopped working...,negative,07-07-2023
+R0806,P006,Women's Handbag,Accessories,U1979,1,This product has battery drains fast!!,negative,08-08-2023
+R0807,P003,Men's Running Shoes,Clothing,U4812,2,This product has battery drains fast :(,negative,17-06-2025
+R0808,P004,Smart LED TV 43 inch,Electronics,U7189,1,This product has battery drains fast!!,negative,28-05-2024
+R0809,P001,Wireless Bluetooth Earbuds,Electronics,U8168,2,This product has not as described :(,negative,30-09-2025
+R0810,P004,Smart LED TV 43 inch,Electronics,U9906,1,This product has battery drains fast :(,negative,17-08-2025
+R0811,P005,Cotton Bedsheet Set,Home & Kitchen,U2128,1,This product has not as described!!,negative,09-07-2025
+R0812,P005,Cotton Bedsheet Set,Home & Kitchen,U9873,2,This product has battery drains fast...,negative,02-01-2023
+R0813,P007,Gaming Mouse RGB,Electronics,U1306,1,This product has uncomfortable :(,negative,04-05-2024
+R0814,P006,Women's Handbag,Accessories,U9830,1,This product has slow performance!!,negative,09-12-2025
+R0815,P008,Mixer Grinder 750W,Home & Kitchen,U5638,1,This product has battery drains fast...,negative,21-10-2024
+R0816,P002,Stainless Steel Water Bottle,Home & Kitchen,U9572,1,This product has noisy operation.,negative,31-03-2023
+R0817,P003,Men's Running Shoes,Clothing,U1512,1,This product has very disappointed.,negative,21-09-2025
+R0818,P004,Smart LED TV 43 inch,Electronics,U1521,1,This product has uncomfortable...,negative,30-09-2025
+R0819,P005,Cotton Bedsheet Set,Home & Kitchen,U7002,1,This product has very disappointed.,negative,27-01-2023
+R0820,P004,Smart LED TV 43 inch,Electronics,U2310,2,This product has defective item.,negative,09-01-2025
+R0821,P007,Gaming Mouse RGB,Electronics,U1955,2,This product has uncomfortable :(,negative,19-12-2025
+R0822,P001,Wireless Bluetooth Earbuds,Electronics,U5979,1,This product has not worth the price!!,negative,29-11-2025
+R0823,P002,Stainless Steel Water Bottle,Home & Kitchen,U4784,1,This product has not as described...,negative,24-01-2024
+R0824,P004,Smart LED TV 43 inch,Electronics,U3931,1,This product has not as described...,negative,05-08-2023
+R0825,P006,Women's Handbag,Accessories,U7997,2,This product has not worth the price!!,negative,05-01-2024
+R0826,P007,Gaming Mouse RGB,Electronics,U3591,2,This product has not as described...,negative,22-12-2024
+R0827,P006,Women's Handbag,Accessories,U7090,2,This product has slow performance...,negative,24-10-2024
+R0828,P004,Smart LED TV 43 inch,Electronics,U7145,1,This product has not as described :(,negative,07-01-2025
+R0829,P008,Mixer Grinder 750W,Home & Kitchen,U7505,2,This product has poor quality.,negative,05-08-2024
+R0830,P001,Wireless Bluetooth Earbuds,Electronics,U5945,1,This product has poor quality :(,negative,30-03-2024
+R0831,P004,Smart LED TV 43 inch,Electronics,U1355,2,This product has bad experience :(,negative,13-11-2025
+R0832,P003,Men's Running Shoes,Clothing,U1618,1,This product has defective item :(,negative,16-11-2023
+R0833,P003,Men's Running Shoes,Clothing,U7014,2,This product has uncomfortable!!,negative,22-04-2024
+R0834,P005,Cotton Bedsheet Set,Home & Kitchen,U2505,2,This product has uncomfortable...,negative,21-03-2024
+R0835,P002,Stainless Steel Water Bottle,Home & Kitchen,U8905,2,This product has stopped working...,negative,15-07-2023
+R0836,P005,Cotton Bedsheet Set,Home & Kitchen,U7251,1,This product has not worth the price.,negative,15-11-2024
+R0837,P006,Women's Handbag,Accessories,U7824,2,This product has not worth the price!!,negative,24-01-2023
+R0838,P007,Gaming Mouse RGB,Electronics,U5993,1,This product has not as described.,negative,15-10-2024
+R0839,P003,Men's Running Shoes,Clothing,U9231,2,This product has bad experience!!,negative,10-11-2023
+R0840,P001,Wireless Bluetooth Earbuds,Electronics,U8300,2,This product has uncomfortable.,negative,30-03-2024
+R0841,P007,Gaming Mouse RGB,Electronics,U7460,2,This product has stopped working!!,negative,19-11-2024
+R0842,P002,Stainless Steel Water Bottle,Home & Kitchen,U1807,2,This product has not as described...,negative,21-06-2024
+R0843,P002,Stainless Steel Water Bottle,Home & Kitchen,U9221,2,This product has slow performance!!,negative,04-10-2023
+R0844,P008,Mixer Grinder 750W,Home & Kitchen,U8993,1,This product has slow performance!!,negative,09-12-2025
+R0845,P004,Smart LED TV 43 inch,Electronics,U2173,1,This product has cheap material...,negative,24-10-2024
+R0846,P002,Stainless Steel Water Bottle,Home & Kitchen,U7776,1,This product has slow performance :(,negative,14-12-2024
+R0847,P004,Smart LED TV 43 inch,Electronics,U6644,2,This product has uncomfortable.,negative,16-09-2024
+R0848,P003,Men's Running Shoes,Clothing,U8245,2,This product has uncomfortable!!,negative,21-06-2025
+R0849,P001,Wireless Bluetooth Earbuds,Electronics,U4271,1,This product has noisy operation :(,negative,16-11-2023
+R0850,P002,Stainless Steel Water Bottle,Home & Kitchen,U1893,1,This product has very disappointed!!,negative,12-08-2024
+R0851,P001,Wireless Bluetooth Earbuds,Electronics,U2823,2,This product has cheap material...,negative,22-08-2025
+R0852,P001,Wireless Bluetooth Earbuds,Electronics,U4424,2,This product has bad experience!!,negative,22-02-2024
+R0853,P005,Cotton Bedsheet Set,Home & Kitchen,U3315,2,This product has bad experience.,negative,10-02-2025
+R0854,P001,Wireless Bluetooth Earbuds,Electronics,U3790,2,This product has poor quality :(,negative,16-02-2024
+R0855,P005,Cotton Bedsheet Set,Home & Kitchen,U8617,1,This product has noisy operation.,negative,17-05-2023
+R0856,P007,Gaming Mouse RGB,Electronics,U6901,2,This product has not worth the price.,negative,22-08-2024
+R0857,P007,Gaming Mouse RGB,Electronics,U7237,1,This product has not as described.,negative,08-10-2024
+R0858,P008,Mixer Grinder 750W,Home & Kitchen,U4054,1,This product has very disappointed...,negative,14-02-2023
+R0859,P001,Wireless Bluetooth Earbuds,Electronics,U9673,1,This product has cheap material :(,negative,30-09-2025
+R0860,P007,Gaming Mouse RGB,Electronics,U1301,1,This product has battery drains fast :(,negative,28-12-2024
+R0861,P005,Cotton Bedsheet Set,Home & Kitchen,U9212,1,This product has cheap material.,negative,11-06-2024
+R0862,P007,Gaming Mouse RGB,Electronics,U5590,1,This product has very disappointed!!,negative,30-11-2024
+R0863,P007,Gaming Mouse RGB,Electronics,U2438,1,This product has bad experience...,negative,02-12-2025
+R0864,P004,Smart LED TV 43 inch,Electronics,U4938,2,This product has uncomfortable!!,negative,23-05-2025
+R0865,P005,Cotton Bedsheet Set,Home & Kitchen,U8359,2,This product has not as described!!,negative,28-02-2024
+R0866,P003,Men's Running Shoes,Clothing,U3262,1,This product has cheap material!!,negative,30-05-2025
+R0867,P003,Men's Running Shoes,Clothing,U6201,1,This product has not worth the price.,negative,13-01-2024
+R0868,P006,Women's Handbag,Accessories,U1483,1,This product has battery drains fast...,negative,22-04-2025
+R0869,P005,Cotton Bedsheet Set,Home & Kitchen,U5485,2,This product has stopped working!!,negative,07-08-2023
+R0870,P003,Men's Running Shoes,Clothing,U1429,1,This product has uncomfortable :(,negative,17-04-2024
+R0871,P004,Smart LED TV 43 inch,Electronics,U1427,1,This product has battery drains fast.,negative,03-09-2025
+R0872,P003,Men's Running Shoes,Clothing,U7126,2,This product has stopped working...,negative,03-10-2025
+R0873,P008,Mixer Grinder 750W,Home & Kitchen,U3683,1,This product has very disappointed!!,negative,08-03-2023
+R0874,P007,Gaming Mouse RGB,Electronics,U5421,1,This product has slow performance!!,negative,20-02-2024
+R0875,P004,Smart LED TV 43 inch,Electronics,U3901,1,This product has defective item...,negative,27-10-2024
+R0876,P008,Mixer Grinder 750W,Home & Kitchen,U8005,1,This product has slow performance.,negative,18-02-2025
+R0877,P006,Women's Handbag,Accessories,U9784,2,This product has not as described.,negative,02-12-2025
+R0878,P002,Stainless Steel Water Bottle,Home & Kitchen,U8485,2,This product has poor quality!!,negative,28-11-2025
+R0879,P007,Gaming Mouse RGB,Electronics,U7347,1,This product has not as described.,negative,24-01-2024
+R0880,P005,Cotton Bedsheet Set,Home & Kitchen,U7521,2,This product has cheap material :(,negative,02-08-2025
+R0881,P003,Men's Running Shoes,Clothing,U5823,2,This product has uncomfortable.,negative,24-11-2025
+R0882,P003,Men's Running Shoes,Clothing,U8400,2,This product has not worth the price.,negative,04-01-2024
+R0883,P003,Men's Running Shoes,Clothing,U7775,2,This product has battery drains fast...,negative,21-02-2023
+R0884,P003,Men's Running Shoes,Clothing,U4308,2,This product has defective item.,negative,27-05-2024
+R0885,P006,Women's Handbag,Accessories,U3024,1,This product has not worth the price.,negative,09-07-2025
+R0886,P006,Women's Handbag,Accessories,U9582,1,This product has bad experience...,negative,13-11-2025
+R0887,P003,Men's Running Shoes,Clothing,U7235,2,This product has poor quality!!,negative,17-11-2024
+R0888,P003,Men's Running Shoes,Clothing,U3369,1,This product has stopped working.,negative,09-05-2025
+R0889,P005,Cotton Bedsheet Set,Home & Kitchen,U8311,2,This product has cheap material!!,negative,29-08-2023
+R0890,P003,Men's Running Shoes,Clothing,U1057,1,This product has uncomfortable :(,negative,26-01-2023
+R0891,P008,Mixer Grinder 750W,Home & Kitchen,U9169,2,This product has not as described.,negative,07-10-2025
+R0892,P004,Smart LED TV 43 inch,Electronics,U8794,1,This product has defective item...,negative,23-06-2025
+R0893,P002,Stainless Steel Water Bottle,Home & Kitchen,U5009,1,This product has not as described :(,negative,01-03-2024
+R0894,P001,Wireless Bluetooth Earbuds,Electronics,U3429,1,This product has poor quality :(,negative,17-03-2023
+R0895,P003,Men's Running Shoes,Clothing,U5889,1,This product has battery drains fast.,negative,11-04-2023
+R0896,P002,Stainless Steel Water Bottle,Home & Kitchen,U3920,2,This product has stopped working :(,negative,30-12-2023
+R0897,P008,Mixer Grinder 750W,Home & Kitchen,U1587,2,This product has not worth the price :(,negative,23-10-2024
+R0898,P006,Women's Handbag,Accessories,U2108,2,This product has slow performance.,negative,22-08-2024
+R0899,P008,Mixer Grinder 750W,Home & Kitchen,U2999,1,This product has bad experience :(,negative,05-11-2024
+R0900,P007,Gaming Mouse RGB,Electronics,U4425,1,This product has uncomfortable.,negative,12-08-2023
+R0901,P002,Stainless Steel Water Bottle,Home & Kitchen,U5705,2,This product has slow performance :(,negative,15-06-2024
+R0902,P006,Women's Handbag,Accessories,U9132,1,This product has not as described...,negative,05-10-2025
+R0903,P003,Men's Running Shoes,Clothing,U5759,1,This product has very disappointed.,negative,31-08-2023
+R0904,P001,Wireless Bluetooth Earbuds,Electronics,U2932,2,This product has bad experience!!,negative,29-04-2025
+R0905,P007,Gaming Mouse RGB,Electronics,U6468,1,This product has battery drains fast!!,negative,24-01-2023
+R0906,P004,Smart LED TV 43 inch,Electronics,U5168,2,This product has not worth the price :(,negative,06-09-2024
+R0907,P006,Women's Handbag,Accessories,U2865,1,This product has noisy operation :(,negative,30-11-2024
+R0908,P007,Gaming Mouse RGB,Electronics,U3877,1,This product has very disappointed :(,negative,23-11-2024
+R0909,P008,Mixer Grinder 750W,Home & Kitchen,U1582,2,This product has noisy operation!!,negative,13-09-2025
+R0910,P003,Men's Running Shoes,Clothing,U9797,2,This product has battery drains fast...,negative,27-04-2025
+R0911,P001,Wireless Bluetooth Earbuds,Electronics,U6169,2,This product has not as described.,negative,02-03-2024
+R0912,P006,Women's Handbag,Accessories,U2084,2,This product has stopped working :(,negative,05-03-2023
+R0913,P006,Women's Handbag,Accessories,U9753,2,This product has stopped working...,negative,19-01-2024
+R0914,P002,Stainless Steel Water Bottle,Home & Kitchen,U6152,2,This product has bad experience.,negative,10-07-2024
+R0915,P007,Gaming Mouse RGB,Electronics,U9143,1,This product has very disappointed :(,negative,14-07-2025
+R0916,P005,Cotton Bedsheet Set,Home & Kitchen,U9603,1,This product has cheap material!!,negative,18-08-2023
+R0917,P006,Women's Handbag,Accessories,U4311,1,This product has not worth the price...,negative,02-11-2025
+R0918,P001,Wireless Bluetooth Earbuds,Electronics,U9192,2,This product has stopped working!!,negative,27-11-2024
+R0919,P008,Mixer Grinder 750W,Home & Kitchen,U6363,2,This product has stopped working.,negative,23-11-2025
+R0920,P003,Men's Running Shoes,Clothing,U1598,1,This product has defective item...,negative,05-12-2025
+R0921,P002,Stainless Steel Water Bottle,Home & Kitchen,U6095,1,This product has poor quality.,negative,13-11-2024
+R0922,P008,Mixer Grinder 750W,Home & Kitchen,U2689,1,This product has not as described :(,negative,16-02-2023
+R0923,P005,Cotton Bedsheet Set,Home & Kitchen,U6257,1,This product has very disappointed!!,negative,09-08-2024
+R0924,P005,Cotton Bedsheet Set,Home & Kitchen,U8227,2,This product has noisy operation.,negative,12-07-2024
+R0925,P003,Men's Running Shoes,Clothing,U5483,1,This product has not worth the price.,negative,18-11-2025
+R0926,P002,Stainless Steel Water Bottle,Home & Kitchen,U9888,1,This product has battery drains fast :(,negative,09-07-2024
+R0927,P003,Men's Running Shoes,Clothing,U5011,2,This product has stopped working.,negative,29-09-2024
+R0928,P006,Women's Handbag,Accessories,U1831,2,This product has stopped working.,negative,22-08-2025
+R0929,P001,Wireless Bluetooth Earbuds,Electronics,U7284,1,This product has poor quality.,negative,23-05-2025
+R0930,P007,Gaming Mouse RGB,Electronics,U8304,1,This product has uncomfortable :(,negative,01-10-2024
+R0931,P006,Women's Handbag,Accessories,U9740,1,This product has not worth the price...,negative,27-09-2023
+R0932,P002,Stainless Steel Water Bottle,Home & Kitchen,U2593,2,This product has defective item :(,negative,11-08-2025
+R0933,P008,Mixer Grinder 750W,Home & Kitchen,U4666,1,This product has stopped working :(,negative,14-01-2025
+R0934,P007,Gaming Mouse RGB,Electronics,U6412,1,This product has battery drains fast...,negative,25-09-2025
+R0935,P001,Wireless Bluetooth Earbuds,Electronics,U8787,1,This product has not worth the price :(,negative,07-09-2025
+R0936,P008,Mixer Grinder 750W,Home & Kitchen,U5624,1,This product has battery drains fast!!,negative,06-11-2025
+R0937,P002,Stainless Steel Water Bottle,Home & Kitchen,U2752,2,This product has battery drains fast.,negative,10-09-2024
+R0938,P008,Mixer Grinder 750W,Home & Kitchen,U7773,2,This product has very disappointed!!,negative,22-11-2023
+R0939,P008,Mixer Grinder 750W,Home & Kitchen,U2082,2,This product has battery drains fast!!,negative,01-06-2025
+R0940,P007,Gaming Mouse RGB,Electronics,U9921,2,This product has bad experience!!,negative,21-12-2023
+R0941,P002,Stainless Steel Water Bottle,Home & Kitchen,U2873,2,This product has uncomfortable...,negative,28-10-2024
+R0942,P002,Stainless Steel Water Bottle,Home & Kitchen,U3886,2,This product has cheap material...,negative,23-05-2023
+R0943,P002,Stainless Steel Water Bottle,Home & Kitchen,U6364,2,This product has defective item.,negative,05-07-2023
+R0944,P004,Smart LED TV 43 inch,Electronics,U1003,1,This product has stopped working!!,negative,16-07-2025
+R0945,P005,Cotton Bedsheet Set,Home & Kitchen,U8326,2,This product has very disappointed!!,negative,10-10-2024
+R0946,P005,Cotton Bedsheet Set,Home & Kitchen,U8122,2,This product has bad experience :(,negative,02-07-2023
+R0947,P001,Wireless Bluetooth Earbuds,Electronics,U3089,2,This product has cheap material.,negative,26-01-2025
+R0948,P001,Wireless Bluetooth Earbuds,Electronics,U6885,1,This product has not worth the price :(,negative,05-03-2023
+R0949,P004,Smart LED TV 43 inch,Electronics,U7459,2,This product has noisy operation :(,negative,22-02-2025
+R0950,P007,Gaming Mouse RGB,Electronics,U8130,2,This product has not as described!!,negative,22-12-2023
+R0951,P008,Mixer Grinder 750W,Home & Kitchen,U4083,1,This product has not as described...,negative,07-01-2025
+R0952,P007,Gaming Mouse RGB,Electronics,U5726,1,This product has noisy operation!!,negative,03-10-2023
+R0953,P001,Wireless Bluetooth Earbuds,Electronics,U1257,1,This product has stopped working...,negative,13-06-2025
+R0954,P003,Men's Running Shoes,Clothing,U3248,1,This product has noisy operation...,negative,22-07-2025
+R0955,P007,Gaming Mouse RGB,Electronics,U8444,1,This product has not as described...,negative,10-07-2025
+R0956,P007,Gaming Mouse RGB,Electronics,U4698,2,This product has stopped working...,negative,16-01-2023
+R0957,P008,Mixer Grinder 750W,Home & Kitchen,U9220,1,This product has cheap material...,negative,21-01-2025
+R0958,P001,Wireless Bluetooth Earbuds,Electronics,U8917,1,This product has bad experience :(,negative,20-08-2023
+R0959,P008,Mixer Grinder 750W,Home & Kitchen,U3327,1,This product has bad experience :(,negative,10-08-2025
+R0960,P002,Stainless Steel Water Bottle,Home & Kitchen,U5017,1,This product has defective item.,negative,01-10-2024
+R0961,P001,Wireless Bluetooth Earbuds,Electronics,U9765,2,This product has poor quality...,negative,18-07-2025
+R0962,P008,Mixer Grinder 750W,Home & Kitchen,U7897,2,This product has battery drains fast :(,negative,15-08-2024
+R0963,P003,Men's Running Shoes,Clothing,U5981,1,This product has bad experience :(,negative,06-05-2023
+R0964,P008,Mixer Grinder 750W,Home & Kitchen,U1845,1,This product has noisy operation :(,negative,25-02-2023
+R0965,P005,Cotton Bedsheet Set,Home & Kitchen,U2351,2,This product has stopped working.,negative,23-07-2024
+R0966,P005,Cotton Bedsheet Set,Home & Kitchen,U5603,1,This product has cheap material :(,negative,30-01-2023
+R0967,P002,Stainless Steel Water Bottle,Home & Kitchen,U3476,1,This product has noisy operation...,negative,27-01-2025
+R0968,P003,Men's Running Shoes,Clothing,U4869,2,This product has defective item!!,negative,16-12-2025
+R0969,P001,Wireless Bluetooth Earbuds,Electronics,U2382,2,This product has stopped working!!,negative,12-10-2025
+R0970,P007,Gaming Mouse RGB,Electronics,U4898,2,This product has noisy operation...,negative,09-12-2023
+R0971,P004,Smart LED TV 43 inch,Electronics,U1890,2,This product has noisy operation :(,negative,26-08-2023
+R0972,P001,Wireless Bluetooth Earbuds,Electronics,U8602,1,This product has slow performance...,negative,09-09-2024
+R0973,P008,Mixer Grinder 750W,Home & Kitchen,U7222,1,This product has noisy operation...,negative,29-08-2025
+R0974,P005,Cotton Bedsheet Set,Home & Kitchen,U9690,1,This product has slow performance.,negative,14-08-2024
+R0975,P008,Mixer Grinder 750W,Home & Kitchen,U6172,2,This product has not as described.,negative,19-07-2023
+R0976,P006,Women's Handbag,Accessories,U5466,2,This product has battery drains fast :(,negative,30-06-2024
+R0977,P002,Stainless Steel Water Bottle,Home & Kitchen,U7408,2,This product has defective item!!,negative,04-02-2024
+R0978,P006,Women's Handbag,Accessories,U6132,1,This product has not as described.,negative,18-01-2023
+R0979,P002,Stainless Steel Water Bottle,Home & Kitchen,U7737,1,This product has not worth the price.,negative,02-07-2025
+R0980,P006,Women's Handbag,Accessories,U5641,1,This product has cheap material!!,negative,11-03-2023
+R0981,P001,Wireless Bluetooth Earbuds,Electronics,U1931,1,This product has uncomfortable!!,negative,07-09-2023
+R0982,P002,Stainless Steel Water Bottle,Home & Kitchen,U3128,1,This product has slow performance!!,negative,16-08-2023
+R0983,P003,Men's Running Shoes,Clothing,U5826,2,This product has defective item.,negative,17-07-2025
+R0984,P005,Cotton Bedsheet Set,Home & Kitchen,U6298,2,This product has cheap material!!,negative,01-06-2023
+R0985,P005,Cotton Bedsheet Set,Home & Kitchen,U7271,1,This product has slow performance :(,negative,04-05-2023
+R0986,P005,Cotton Bedsheet Set,Home & Kitchen,U3915,2,This product has defective item.,negative,04-10-2025
+R0987,P004,Smart LED TV 43 inch,Electronics,U3923,2,This product has noisy operation...,negative,11-08-2023
+R0988,P003,Men's Running Shoes,Clothing,U4578,2,This product has uncomfortable.,negative,23-06-2025
+R0989,P005,Cotton Bedsheet Set,Home & Kitchen,U1571,1,This product has not worth the price.,negative,28-05-2024
+R0990,P008,Mixer Grinder 750W,Home & Kitchen,U9154,1,This product has stopped working.,negative,19-03-2023
+R0991,P007,Gaming Mouse RGB,Electronics,U3483,2,This product has bad experience :(,negative,12-03-2025
+R0992,P001,Wireless Bluetooth Earbuds,Electronics,U8833,2,This product has slow performance...,negative,24-05-2023
+R0993,P004,Smart LED TV 43 inch,Electronics,U7298,1,This product has bad experience...,negative,06-09-2023
+R0994,P006,Women's Handbag,Accessories,U5961,2,This product has slow performance.,negative,05-07-2023
+R0995,P006,Women's Handbag,Accessories,U2318,2,This product has defective item :(,negative,20-02-2024
+R0996,P003,Men's Running Shoes,Clothing,U7294,1,This product has noisy operation!!,negative,04-09-2024
+R0997,P007,Gaming Mouse RGB,Electronics,U6886,1,This product has defective item.,negative,15-06-2025
+R0998,P004,Smart LED TV 43 inch,Electronics,U1584,1,This product has very disappointed.,negative,03-05-2024
+R0999,P008,Mixer Grinder 750W,Home & Kitchen,U2032,2,This product has not as described :(,negative,20-10-2025
+R1000,P008,Mixer Grinder 750W,Home & Kitchen,U1606,1,This product has battery drains fast.,negative,22-11-2024
